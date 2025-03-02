@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 import plotly.graph_objects as go
 
 from huggingface_hub import hf_hub_download
@@ -9,34 +10,6 @@ from utils import Preprocessor
 
 REPO_ID = "michael-map/tripadvisor-nlp-rfc"
 FILENAME = "random_forest_model.joblib"
-
-# def run():
-#     """Loads the model from Hugging Face Hub."""
-    
-#     model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
-#     model = joblib.load(model_path)
-
-#     st.title("Sentiment Analysis")
-#     st.text("Basic app to detect the sentiment of text. :)")
-#     st.text("")
-#     userinput = st.text_input('Enter text below, then click the Predict button.', placeholder='Input text HERE')
-#     st.text("")
-#     predicted_sentiment = ""
-#     if st.button("Predict"):
-#         predicted_sentiment = model.predict(pd.Series(userinput))
-#         if predicted_sentiment == 1:
-#             output = 'positive 👍'
-#         else:
-#             output = 'negative 👎'
-#         sentiment=f'Predicted sentiment of "{userinput}" is {output}.'
-#         st.success(sentiment)
-
-
-import streamlit as st
-import pandas as pd
-import numpy as np
-import joblib
-
 
 # Helper function for prediction
 def predict_review(review_text):
@@ -103,7 +76,7 @@ def run():
     
     # Footer
     st.markdown("---")
-    st.markdown("Developed with ❤️ using Streamlit | © 2024 Hotel Insights AI")
+    st.markdown("Developed with ❤️ using Streamlit | © 2025 Medical Insights AI")
 
 if __name__ == "__main__":
     run()

@@ -8,8 +8,8 @@ import re
 
 custom_stop_words = []
 
-# Load spaCy's English model for lemmatization
-nlp = spacy.load("spacy.load("en_core_sci_lg")", , disable=["parser"])
+# Load SciSpaCy
+nlp = spacy.load("en_core_sci_lg", disable=["parser"])
 
 batch_size = 500
 

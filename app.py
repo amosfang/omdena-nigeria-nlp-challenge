@@ -46,7 +46,7 @@ def predict_symptoms(symptoms_text):
     predictions = np.argsort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]  # Get indices of top 5 diseases
     top_n_probs = np.sort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]
 
-    return prediction, top_n_probs
+    return predictions, top_n_probs
 
 def run():
     # Streamlit UI

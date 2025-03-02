@@ -2,6 +2,6 @@ huggingface-hub==0.17.3
 joblib
 scikit-learn
 spacy==3.7.2
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+en_core_sci_lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz
 thinc>=8.2.2,<8.3.0
 plotly==5.16.0

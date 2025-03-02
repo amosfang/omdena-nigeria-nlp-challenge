@@ -62,10 +62,10 @@ def run():
         if user_symptoms.strip():
             # Make prediction
             predictions, top_n_probs = predict_symptoms(user_symptoms)
-            prediction_diseases = diseases_df.iloc[predictions[0]]
+            prediction_diseases = diseases_df.iloc[predictions[0]]["disease_name"]
     
             # Display Results
-            st.markdown(f"### Disease: **{' '.join(prediction_diseases)}**")
+            st.markdown(f"### Disease: **{' '.join(prediction_diseases.tolist())}**")
             st.markdown(f"**Confidence:** {' '.joint(top_n_probs.tolist())}")
             
             # Plotly Bar Chart for Probabilities

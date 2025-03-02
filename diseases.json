@@ -1,0 +1,4942 @@
+[
+    {
+        "id":0,
+        "disease_name":"a-fib (atrial fibrillation)"
+    },
+    {
+        "id":1,
+        "disease_name":"abnormal (dysfunctional) uterine bleeding"
+    },
+    {
+        "id":2,
+        "disease_name":"abscess"
+    },
+    {
+        "id":3,
+        "disease_name":"abscess in children"
+    },
+    {
+        "id":4,
+        "disease_name":"abuse of alcohol"
+    },
+    {
+        "id":5,
+        "disease_name":"acetaminophen overdose"
+    },
+    {
+        "id":6,
+        "disease_name":"achilles tendinitis"
+    },
+    {
+        "id":7,
+        "disease_name":"achilles tendon rupture"
+    },
+    {
+        "id":8,
+        "disease_name":"acl injury"
+    },
+    {
+        "id":9,
+        "disease_name":"acl injury in children"
+    },
+    {
+        "id":10,
+        "disease_name":"acoustic neuroma"
+    },
+    {
+        "id":11,
+        "disease_name":"acquired hypothyroidism in children"
+    },
+    {
+        "id":12,
+        "disease_name":"acquired von willebrand syndrome"
+    },
+    {
+        "id":13,
+        "disease_name":"acromegaly"
+    },
+    {
+        "id":14,
+        "disease_name":"acromioclavicular separation"
+    },
+    {
+        "id":15,
+        "disease_name":"actinic keratosis"
+    },
+    {
+        "id":16,
+        "disease_name":"acute bronchitis"
+    },
+    {
+        "id":17,
+        "disease_name":"acute bronchitis in children"
+    },
+    {
+        "id":18,
+        "disease_name":"acute chest syndrome"
+    },
+    {
+        "id":19,
+        "disease_name":"acute coronary syndrome"
+    },
+    {
+        "id":20,
+        "disease_name":"acute delirium"
+    },
+    {
+        "id":21,
+        "disease_name":"acute dental trauma"
+    },
+    {
+        "id":22,
+        "disease_name":"acute dental trauma in children"
+    },
+    {
+        "id":23,
+        "disease_name":"acute diarrhea"
+    },
+    {
+        "id":24,
+        "disease_name":"acute diarrhea in children"
+    },
+    {
+        "id":25,
+        "disease_name":"acute graft versus host disease"
+    },
+    {
+        "id":26,
+        "disease_name":"acute hypothermia"
+    },
+    {
+        "id":27,
+        "disease_name":"acute kidney injury"
+    },
+    {
+        "id":28,
+        "disease_name":"acute liver failure"
+    },
+    {
+        "id":29,
+        "disease_name":"acute lymphocytic leukemia"
+    },
+    {
+        "id":30,
+        "disease_name":"acute lymphocytic leukemia in children"
+    },
+    {
+        "id":31,
+        "disease_name":"acute myeloid leukemia"
+    },
+    {
+        "id":32,
+        "disease_name":"acute paraphimosis"
+    },
+    {
+        "id":33,
+        "disease_name":"acute pericarditis"
+    },
+    {
+        "id":34,
+        "disease_name":"acute porphyria"
+    },
+    {
+        "id":35,
+        "disease_name":"acute urinary retention in women"
+    },
+    {
+        "id":36,
+        "disease_name":"acute wounds"
+    },
+    {
+        "id":37,
+        "disease_name":"addison disease"
+    },
+    {
+        "id":38,
+        "disease_name":"addison disease in children"
+    },
+    {
+        "id":39,
+        "disease_name":"adhd in adolescents"
+    },
+    {
+        "id":40,
+        "disease_name":"adhd in adults"
+    },
+    {
+        "id":41,
+        "disease_name":"adhd in children"
+    },
+    {
+        "id":42,
+        "disease_name":"adhesive capsulitis"
+    },
+    {
+        "id":43,
+        "disease_name":"adrenal insufficiency in children"
+    },
+    {
+        "id":44,
+        "disease_name":"adrenal pheochromocytoma"
+    },
+    {
+        "id":45,
+        "disease_name":"adult congenital heart disease"
+    },
+    {
+        "id":46,
+        "disease_name":"adult-onset still disease"
+    },
+    {
+        "id":47,
+        "disease_name":"adverse drug reaction"
+    },
+    {
+        "id":48,
+        "disease_name":"agoraphobia"
+    },
+    {
+        "id":49,
+        "disease_name":"aids"
+    },
+    {
+        "id":50,
+        "disease_name":"alcohol intoxication"
+    },
+    {
+        "id":51,
+        "disease_name":"alcohol use disorder"
+    },
+    {
+        "id":52,
+        "disease_name":"alcohol withdrawal"
+    },
+    {
+        "id":53,
+        "disease_name":"alcoholic hepatitis"
+    },
+    {
+        "id":54,
+        "disease_name":"allergic esophagitis"
+    },
+    {
+        "id":55,
+        "disease_name":"allergic rhinitis"
+    },
+    {
+        "id":56,
+        "disease_name":"allergic rhinitis in children"
+    },
+    {
+        "id":57,
+        "disease_name":"allergies"
+    },
+    {
+        "id":58,
+        "disease_name":"allergies in children"
+    },
+    {
+        "id":59,
+        "disease_name":"als (amyotrophic lateral sclerosis)"
+    },
+    {
+        "id":60,
+        "disease_name":"altered mental status"
+    },
+    {
+        "id":61,
+        "disease_name":"alzheimer disease"
+    },
+    {
+        "id":62,
+        "disease_name":"amblyopia"
+    },
+    {
+        "id":63,
+        "disease_name":"amblyopia in children"
+    },
+    {
+        "id":64,
+        "disease_name":"amyloidosis"
+    },
+    {
+        "id":65,
+        "disease_name":"anal fissure"
+    },
+    {
+        "id":66,
+        "disease_name":"anaphylaxis"
+    },
+    {
+        "id":67,
+        "disease_name":"anaphylaxis in children"
+    },
+    {
+        "id":68,
+        "disease_name":"anemia"
+    },
+    {
+        "id":69,
+        "disease_name":"angina"
+    },
+    {
+        "id":70,
+        "disease_name":"angiodysplasia of the gastrointestinal tract"
+    },
+    {
+        "id":71,
+        "disease_name":"angioedema"
+    },
+    {
+        "id":72,
+        "disease_name":"ankle bursitis"
+    },
+    {
+        "id":73,
+        "disease_name":"ankle dislocation"
+    },
+    {
+        "id":74,
+        "disease_name":"ankle fracture"
+    },
+    {
+        "id":75,
+        "disease_name":"ankle fracture in children"
+    },
+    {
+        "id":76,
+        "disease_name":"ankle sprain"
+    },
+    {
+        "id":77,
+        "disease_name":"ankle sprain in children"
+    },
+    {
+        "id":78,
+        "disease_name":"ankle strain"
+    },
+    {
+        "id":79,
+        "disease_name":"ankylosing spondylitis"
+    },
+    {
+        "id":80,
+        "disease_name":"anorectal abscess and anal fistula"
+    },
+    {
+        "id":81,
+        "disease_name":"anorexia"
+    },
+    {
+        "id":82,
+        "disease_name":"anorexia in adolescents"
+    },
+    {
+        "id":83,
+        "disease_name":"anorexia in children"
+    },
+    {
+        "id":84,
+        "disease_name":"anthrax"
+    },
+    {
+        "id":84,
+        "disease_name":"anthrax"
+    },
+    {
+        "id":85,
+        "disease_name":"antibiotic medication allergy"
+    },
+    {
+        "id":86,
+        "disease_name":"antiretroviral medication allergy"
+    },
+    {
+        "id":87,
+        "disease_name":"anxiety"
+    },
+    {
+        "id":88,
+        "disease_name":"anxiety in adolescents"
+    },
+    {
+        "id":89,
+        "disease_name":"anxiety in children"
+    },
+    {
+        "id":90,
+        "disease_name":"aortic disease"
+    },
+    {
+        "id":91,
+        "disease_name":"aortic regurgitation"
+    },
+    {
+        "id":92,
+        "disease_name":"aortic root aneurysm"
+    },
+    {
+        "id":93,
+        "disease_name":"aortic stenosis"
+    },
+    {
+        "id":94,
+        "disease_name":"aortitis"
+    },
+    {
+        "id":95,
+        "disease_name":"aphasia"
+    },
+    {
+        "id":96,
+        "disease_name":"aplastic anemia"
+    },
+    {
+        "id":97,
+        "disease_name":"appendicitis"
+    },
+    {
+        "id":98,
+        "disease_name":"appendicitis in adolescents"
+    },
+    {
+        "id":99,
+        "disease_name":"appendicitis in children"
+    },
+    {
+        "id":100,
+        "disease_name":"ards (acute respiratory distress syndrome)"
+    },
+    {
+        "id":101,
+        "disease_name":"arm fracture in adults"
+    },
+    {
+        "id":102,
+        "disease_name":"arm fracture in children"
+    },
+    {
+        "id":103,
+        "disease_name":"arthritis"
+    },
+    {
+        "id":104,
+        "disease_name":"ascending thoracic aortic aneurysm"
+    },
+    {
+        "id":105,
+        "disease_name":"ascites"
+    },
+    {
+        "id":106,
+        "disease_name":"asperger syndrome"
+    },
+    {
+        "id":107,
+        "disease_name":"aspiration pneumonia"
+    },
+    {
+        "id":107,
+        "disease_name":"aspiration pneumonia"
+    },
+    {
+        "id":108,
+        "disease_name":"asthma"
+    },
+    {
+        "id":109,
+        "disease_name":"asthma in children"
+    },
+    {
+        "id":110,
+        "disease_name":"atelectasis"
+    },
+    {
+        "id":111,
+        "disease_name":"athlete's foot"
+    },
+    {
+        "id":112,
+        "disease_name":"atrial flutter"
+    },
+    {
+        "id":113,
+        "disease_name":"atrial septal defect"
+    },
+    {
+        "id":114,
+        "disease_name":"atrial septal defect in children"
+    },
+    {
+        "id":115,
+        "disease_name":"atrial tachycardia"
+    },
+    {
+        "id":116,
+        "disease_name":"atypical mole"
+    },
+    {
+        "id":117,
+        "disease_name":"autism spectrum disorder"
+    },
+    {
+        "id":118,
+        "disease_name":"autoimmune disease"
+    },
+    {
+        "id":119,
+        "disease_name":"autoimmune thyroid disorders"
+    },
+    {
+        "id":120,
+        "disease_name":"autonomic dysreflexia"
+    },
+    {
+        "id":121,
+        "disease_name":"autosomal dominant polycystic kidney disease"
+    },
+    {
+        "id":122,
+        "disease_name":"avulsion fracture"
+    },
+    {
+        "id":123,
+        "disease_name":"azoospermia"
+    },
+    {
+        "id":124,
+        "disease_name":"bacteremia"
+    },
+    {
+        "id":125,
+        "disease_name":"bacterial meningitis"
+    },
+    {
+        "id":125,
+        "disease_name":"bacterial meningitis"
+    },
+    {
+        "id":126,
+        "disease_name":"bacterial meningitis in children"
+    },
+    {
+        "id":127,
+        "disease_name":"bacterial overgrowth syndrome"
+    },
+    {
+        "id":128,
+        "disease_name":"bacterial pneumonia"
+    },
+    {
+        "id":128,
+        "disease_name":"bacterial pneumonia"
+    },
+    {
+        "id":129,
+        "disease_name":"bacterial vaginosis"
+    },
+    {
+        "id":130,
+        "disease_name":"baker cyst"
+    },
+    {
+        "id":131,
+        "disease_name":"balanitis"
+    },
+    {
+        "id":132,
+        "disease_name":"barbiturate use disorder"
+    },
+    {
+        "id":133,
+        "disease_name":"barotitis media"
+    },
+    {
+        "id":134,
+        "disease_name":"barotrauma"
+    },
+    {
+        "id":135,
+        "disease_name":"barrett esophagus"
+    },
+    {
+        "id":136,
+        "disease_name":"bed bugs"
+    },
+    {
+        "id":137,
+        "disease_name":"behcet syndrome"
+    },
+    {
+        "id":138,
+        "disease_name":"bell palsy"
+    },
+    {
+        "id":139,
+        "disease_name":"benign bone tumor"
+    },
+    {
+        "id":140,
+        "disease_name":"benign paroxysmal positional vertigo"
+    },
+    {
+        "id":141,
+        "disease_name":"benzodiazepine overdose"
+    },
+    {
+        "id":142,
+        "disease_name":"benzodiazepine use disorder"
+    },
+    {
+        "id":143,
+        "disease_name":"biliary atresia"
+    },
+    {
+        "id":144,
+        "disease_name":"biliary colic"
+    },
+    {
+        "id":145,
+        "disease_name":"biliary dyskinesia"
+    },
+    {
+        "id":146,
+        "disease_name":"binge eating disorder"
+    },
+    {
+        "id":147,
+        "disease_name":"binge eating disorder in adolescents"
+    },
+    {
+        "id":148,
+        "disease_name":"bipolar disorder"
+    },
+    {
+        "id":149,
+        "disease_name":"bk virus infection"
+    },
+    {
+        "id":150,
+        "disease_name":"black eye"
+    },
+    {
+        "id":151,
+        "disease_name":"black widow spider bite"
+    },
+    {
+        "id":152,
+        "disease_name":"bladder cancer"
+    },
+    {
+        "id":152,
+        "disease_name":"bladder cancer"
+    },
+    {
+        "id":153,
+        "disease_name":"bladder stones"
+    },
+    {
+        "id":154,
+        "disease_name":"blepharitis"
+    },
+    {
+        "id":155,
+        "disease_name":"blocked tear duct"
+    },
+    {
+        "id":156,
+        "disease_name":"blocked tear duct in children"
+    },
+    {
+        "id":157,
+        "disease_name":"blocked tear duct in infants"
+    },
+    {
+        "id":158,
+        "disease_name":"blood transfusion reactions"
+    },
+    {
+        "id":159,
+        "disease_name":"blunt abdominal injury"
+    },
+    {
+        "id":160,
+        "disease_name":"body image in adolescents"
+    },
+    {
+        "id":161,
+        "disease_name":"body lice"
+    },
+    {
+        "id":162,
+        "disease_name":"bone bruise"
+    },
+    {
+        "id":163,
+        "disease_name":"bone bruise in children"
+    },
+    {
+        "id":164,
+        "disease_name":"bone metastasis"
+    },
+    {
+        "id":165,
+        "disease_name":"borderline personality disorder"
+    },
+    {
+        "id":166,
+        "disease_name":"botulism"
+    },
+    {
+        "id":167,
+        "disease_name":"bowel incontinence"
+    },
+    {
+        "id":168,
+        "disease_name":"bowel obstruction"
+    },
+    {
+        "id":169,
+        "disease_name":"boxer fracture"
+    },
+    {
+        "id":170,
+        "disease_name":"bradycardia"
+    },
+    {
+        "id":171,
+        "disease_name":"brain metastasis"
+    },
+    {
+        "id":172,
+        "disease_name":"brain tumors in children"
+    },
+    {
+        "id":173,
+        "disease_name":"brainstem infarction "
+    },
+    {
+        "id":174,
+        "disease_name":"braxton hicks contractions"
+    },
+    {
+        "id":175,
+        "disease_name":"breast cancer in men"
+    },
+    {
+        "id":176,
+        "disease_name":"breast cancer in women"
+    },
+    {
+        "id":177,
+        "disease_name":"breastfeeding and breast engorgement"
+    },
+    {
+        "id":178,
+        "disease_name":"breastfeeding and plugged ducts"
+    },
+    {
+        "id":179,
+        "disease_name":"brief psychotic disorder"
+    },
+    {
+        "id":180,
+        "disease_name":"bronchiectasis"
+    },
+    {
+        "id":181,
+        "disease_name":"bronchiectasis in children"
+    },
+    {
+        "id":182,
+        "disease_name":"bronchiolitis"
+    },
+    {
+        "id":183,
+        "disease_name":"bronchopulmonary dysplasia"
+    },
+    {
+        "id":184,
+        "disease_name":"bronchospasm"
+    },
+    {
+        "id":185,
+        "disease_name":"brown recluse spider bite"
+    },
+    {
+        "id":186,
+        "disease_name":"brue (brief resolved unexplained event)"
+    },
+    {
+        "id":187,
+        "disease_name":"buckle fracture"
+    },
+    {
+        "id":188,
+        "disease_name":"bulimia"
+    },
+    {
+        "id":189,
+        "disease_name":"bulimia in adolescents"
+    },
+    {
+        "id":190,
+        "disease_name":"bulimia in children"
+    },
+    {
+        "id":191,
+        "disease_name":"bunion"
+    },
+    {
+        "id":192,
+        "disease_name":"c. diff (clostridioides difficile) infection"
+    },
+    {
+        "id":193,
+        "disease_name":"calcaneal fracture"
+    },
+    {
+        "id":194,
+        "disease_name":"calcific tendinitis"
+    },
+    {
+        "id":195,
+        "disease_name":"cancer"
+    },
+    {
+        "id":196,
+        "disease_name":"cancer cachexia"
+    },
+    {
+        "id":196,
+        "disease_name":"cancer cachexia"
+    },
+    {
+        "id":197,
+        "disease_name":"candida auris infection"
+    },
+    {
+        "id":198,
+        "disease_name":"canker sores"
+    },
+    {
+        "id":199,
+        "disease_name":"cannabis use disorder"
+    },
+    {
+        "id":200,
+        "disease_name":"carbon monoxide poisoning"
+    },
+    {
+        "id":201,
+        "disease_name":"carbon monoxide poisoning in children"
+    },
+    {
+        "id":202,
+        "disease_name":"cardiac tamponade"
+    },
+    {
+        "id":203,
+        "disease_name":"carotid artery disease"
+    },
+    {
+        "id":204,
+        "disease_name":"carpal tunnel syndrome"
+    },
+    {
+        "id":205,
+        "disease_name":"cat scratch disease"
+    },
+    {
+        "id":206,
+        "disease_name":"catheter-associated urinary tract infection"
+    },
+    {
+        "id":207,
+        "disease_name":"celiac disease"
+    },
+    {
+        "id":208,
+        "disease_name":"cellulitis"
+    },
+    {
+        "id":209,
+        "disease_name":"cellulitis in children"
+    },
+    {
+        "id":210,
+        "disease_name":"cervical cancer"
+    },
+    {
+        "id":210,
+        "disease_name":"cervical cancer"
+    },
+    {
+        "id":211,
+        "disease_name":"cervical disc herniation"
+    },
+    {
+        "id":212,
+        "disease_name":"cervical fracture"
+    },
+    {
+        "id":213,
+        "disease_name":"cervical radiculopathy"
+    },
+    {
+        "id":214,
+        "disease_name":"cervical spinal stenosis"
+    },
+    {
+        "id":215,
+        "disease_name":"cervical sprain"
+    },
+    {
+        "id":216,
+        "disease_name":"cervical strain"
+    },
+    {
+        "id":217,
+        "disease_name":"cervicitis"
+    },
+    {
+        "id":218,
+        "disease_name":"chalazion"
+    },
+    {
+        "id":219,
+        "disease_name":"chemical eye burns"
+    },
+    {
+        "id":220,
+        "disease_name":"chemical skin burn"
+    },
+    {
+        "id":221,
+        "disease_name":"chest contusion"
+    },
+    {
+        "id":222,
+        "disease_name":"chiari malformation"
+    },
+    {
+        "id":223,
+        "disease_name":"chickenpox"
+    },
+    {
+        "id":224,
+        "disease_name":"chigger bite"
+    },
+    {
+        "id":225,
+        "disease_name":"child maltreatment - neglect"
+    },
+    {
+        "id":226,
+        "disease_name":"child maltreatment - physical abuse"
+    },
+    {
+        "id":227,
+        "disease_name":"child maltreatment - psychological abuse"
+    },
+    {
+        "id":228,
+        "disease_name":"childhood absence epilepsy"
+    },
+    {
+        "id":229,
+        "disease_name":"childhood hodgkin lymphoma"
+    },
+    {
+        "id":230,
+        "disease_name":"childhood non-hodgkin lymphoma"
+    },
+    {
+        "id":231,
+        "disease_name":"chlamydia"
+    },
+    {
+        "id":231,
+        "disease_name":"chlamydia"
+    },
+    {
+        "id":232,
+        "disease_name":"cholecystitis"
+    },
+    {
+        "id":233,
+        "disease_name":"choroidal hemangioma"
+    },
+    {
+        "id":234,
+        "disease_name":"choroidal nevus"
+    },
+    {
+        "id":235,
+        "disease_name":"chronic abdominal pain"
+    },
+    {
+        "id":236,
+        "disease_name":"chronic abdominal pain in children"
+    },
+    {
+        "id":237,
+        "disease_name":"chronic bronchitis"
+    },
+    {
+        "id":238,
+        "disease_name":"chronic cough"
+    },
+    {
+        "id":239,
+        "disease_name":"chronic diarrhea"
+    },
+    {
+        "id":240,
+        "disease_name":"chronic diarrhea in children"
+    },
+    {
+        "id":241,
+        "disease_name":"chronic dysphagia"
+    },
+    {
+        "id":242,
+        "disease_name":"chronic fatigue syndrome"
+    },
+    {
+        "id":243,
+        "disease_name":"chronic graft versus host disease"
+    },
+    {
+        "id":244,
+        "disease_name":"chronic inflammatory demyelinating polyneuropathy"
+    },
+    {
+        "id":245,
+        "disease_name":"chronic kidney disease"
+    },
+    {
+        "id":246,
+        "disease_name":"chronic liver disease"
+    },
+    {
+        "id":247,
+        "disease_name":"chronic lymphocytic leukemia"
+    },
+    {
+        "id":248,
+        "disease_name":"chronic myeloid leukemia"
+    },
+    {
+        "id":249,
+        "disease_name":"chronic pericarditis"
+    },
+    {
+        "id":250,
+        "disease_name":"chronic post traumatic headache"
+    },
+    {
+        "id":251,
+        "disease_name":"chronic respiratory failure"
+    },
+    {
+        "id":252,
+        "disease_name":"chronic urinary retention in women"
+    },
+    {
+        "id":253,
+        "disease_name":"chronic wounds"
+    },
+    {
+        "id":254,
+        "disease_name":"cirrhosis of the liver"
+    },
+    {
+        "id":255,
+        "disease_name":"clavicle fracture"
+    },
+    {
+        "id":256,
+        "disease_name":"clavicle fracture in children"
+    },
+    {
+        "id":257,
+        "disease_name":"cleft lip and cleft palate"
+    },
+    {
+        "id":258,
+        "disease_name":"clotting disorders during pregnancy"
+    },
+    {
+        "id":259,
+        "disease_name":"cluster headache"
+    },
+    {
+        "id":260,
+        "disease_name":"cluster headache in children"
+    },
+    {
+        "id":261,
+        "disease_name":"coarctation of the aorta"
+    },
+    {
+        "id":262,
+        "disease_name":"cocaine use disorder"
+    },
+    {
+        "id":263,
+        "disease_name":"coccyx injury"
+    },
+    {
+        "id":264,
+        "disease_name":"colorectal cancer"
+    },
+    {
+        "id":264,
+        "disease_name":"colorectal cancer"
+    },
+    {
+        "id":265,
+        "disease_name":"colorectal polyps"
+    },
+    {
+        "id":266,
+        "disease_name":"common wart"
+    },
+    {
+        "id":267,
+        "disease_name":"community acquired pneumonia"
+    },
+    {
+        "id":268,
+        "disease_name":"compartment syndrome"
+    },
+    {
+        "id":269,
+        "disease_name":"compartment syndrome in children"
+    },
+    {
+        "id":270,
+        "disease_name":"complex regional pain syndrome"
+    },
+    {
+        "id":271,
+        "disease_name":"complications of infection"
+    },
+    {
+        "id":272,
+        "disease_name":"concussion"
+    },
+    {
+        "id":273,
+        "disease_name":"concussion in children"
+    },
+    {
+        "id":274,
+        "disease_name":"congenital heart disease in children"
+    },
+    {
+        "id":275,
+        "disease_name":"congenital hypothyroidism in children"
+    },
+    {
+        "id":276,
+        "disease_name":"congenital von willebrand disease"
+    },
+    {
+        "id":277,
+        "disease_name":"congenital zika virus"
+    },
+    {
+        "id":277,
+        "disease_name":"congenital zika virus"
+    },
+    {
+        "id":278,
+        "disease_name":"conjunctivitis"
+    },
+    {
+        "id":279,
+        "disease_name":"connective tissue disorders"
+    },
+    {
+        "id":280,
+        "disease_name":"constipation"
+    },
+    {
+        "id":281,
+        "disease_name":"constipation in children"
+    },
+    {
+        "id":282,
+        "disease_name":"contact dermatitis"
+    },
+    {
+        "id":283,
+        "disease_name":"contusion in adults"
+    },
+    {
+        "id":284,
+        "disease_name":"contusion in children"
+    },
+    {
+        "id":285,
+        "disease_name":"conversion disorder"
+    },
+    {
+        "id":286,
+        "disease_name":"copd (chronic obstructive pulmonary disease)"
+    },
+    {
+        "id":287,
+        "disease_name":"cor pulmonale"
+    },
+    {
+        "id":288,
+        "disease_name":"corneal flash burns"
+    },
+    {
+        "id":289,
+        "disease_name":"corneal ulcer"
+    },
+    {
+        "id":290,
+        "disease_name":"coronary artery disease"
+    },
+    {
+        "id":291,
+        "disease_name":"coronary artery disease in women"
+    },
+    {
+        "id":292,
+        "disease_name":"corrosive esophagitis"
+    },
+    {
+        "id":293,
+        "disease_name":"corrosive esophagitis in children"
+    },
+    {
+        "id":294,
+        "disease_name":"costochondritis"
+    },
+    {
+        "id":295,
+        "disease_name":"covid-19 (coronavirus disease 2019)"
+    },
+    {
+        "id":296,
+        "disease_name":"covid-19 and pregnancy"
+    },
+    {
+        "id":297,
+        "disease_name":"cre (carbapenem resistant enterobacteriaceae)"
+    },
+    {
+        "id":298,
+        "disease_name":"creutzfeldt-jakob disease"
+    },
+    {
+        "id":299,
+        "disease_name":"crohn disease"
+    },
+    {
+        "id":300,
+        "disease_name":"cronobacter infection in children"
+    },
+    {
+        "id":301,
+        "disease_name":"croup"
+    },
+    {
+        "id":302,
+        "disease_name":"croup in children"
+    },
+    {
+        "id":303,
+        "disease_name":"cte (chronic traumatic encephalopathy)"
+    },
+    {
+        "id":304,
+        "disease_name":"cubital tunnel syndrome"
+    },
+    {
+        "id":305,
+        "disease_name":"cushing syndrome"
+    },
+    {
+        "id":306,
+        "disease_name":"cyanide poisoning"
+    },
+    {
+        "id":307,
+        "disease_name":"cyclic vomiting syndrome"
+    },
+    {
+        "id":308,
+        "disease_name":"cyclic vomiting syndrome in children"
+    },
+    {
+        "id":309,
+        "disease_name":"cyst"
+    },
+    {
+        "id":310,
+        "disease_name":"cystic fibrosis"
+    },
+    {
+        "id":311,
+        "disease_name":"cystic fibrosis in children"
+    },
+    {
+        "id":312,
+        "disease_name":"cystocele"
+    },
+    {
+        "id":313,
+        "disease_name":"de quervain disease"
+    },
+    {
+        "id":314,
+        "disease_name":"death and dying"
+    },
+    {
+        "id":315,
+        "disease_name":"deep vein thrombosis"
+    },
+    {
+        "id":316,
+        "disease_name":"degenerative disc disease"
+    },
+    {
+        "id":317,
+        "disease_name":"dehydration"
+    },
+    {
+        "id":318,
+        "disease_name":"dehydration in children"
+    },
+    {
+        "id":319,
+        "disease_name":"dementia"
+    },
+    {
+        "id":320,
+        "disease_name":"dengue"
+    },
+    {
+        "id":321,
+        "disease_name":"dental abscess"
+    },
+    {
+        "id":322,
+        "disease_name":"dental laceration"
+    },
+    {
+        "id":323,
+        "disease_name":"depression"
+    },
+    {
+        "id":324,
+        "disease_name":"depression after spinal cord injury"
+    },
+    {
+        "id":325,
+        "disease_name":"depression in children"
+    },
+    {
+        "id":326,
+        "disease_name":"depression in older adults"
+    },
+    {
+        "id":327,
+        "disease_name":"depression management for adolescents"
+    },
+    {
+        "id":328,
+        "disease_name":"depression management for older adults"
+    },
+    {
+        "id":329,
+        "disease_name":"depressive disorder in adolescents"
+    },
+    {
+        "id":330,
+        "disease_name":"depressive disorder in children"
+    },
+    {
+        "id":331,
+        "disease_name":"dermatitis"
+    },
+    {
+        "id":332,
+        "disease_name":"dermatomyositis"
+    },
+    {
+        "id":333,
+        "disease_name":"descending thoracic aortic aneurysm"
+    },
+    {
+        "id":334,
+        "disease_name":"diabetes and your mouth"
+    },
+    {
+        "id":335,
+        "disease_name":"diabetes insipidus"
+    },
+    {
+        "id":336,
+        "disease_name":"diabetes type 1: management"
+    },
+    {
+        "id":337,
+        "disease_name":"diabetic gastroparesis"
+    },
+    {
+        "id":338,
+        "disease_name":"diabetic ketoacidosis"
+    },
+    {
+        "id":339,
+        "disease_name":"diabetic ketoacidosis in children"
+    },
+    {
+        "id":340,
+        "disease_name":"diabetic kidney disease"
+    },
+    {
+        "id":341,
+        "disease_name":"diabetic neuropathy"
+    },
+    {
+        "id":342,
+        "disease_name":"diabetic retinopathy"
+    },
+    {
+        "id":343,
+        "disease_name":"diaper rash"
+    },
+    {
+        "id":344,
+        "disease_name":"diastasis recti and pregnancy"
+    },
+    {
+        "id":345,
+        "disease_name":"dilated cardiomyopathy"
+    },
+    {
+        "id":346,
+        "disease_name":"diphtheria"
+    },
+    {
+        "id":347,
+        "disease_name":"diphtheria in children"
+    },
+    {
+        "id":348,
+        "disease_name":"disruptive mood dysregulation disorder"
+    },
+    {
+        "id":349,
+        "disease_name":"disseminated intravascular coagulation"
+    },
+    {
+        "id":350,
+        "disease_name":"diverticulitis"
+    },
+    {
+        "id":351,
+        "disease_name":"diverticulosis"
+    },
+    {
+        "id":352,
+        "disease_name":"dizziness"
+    },
+    {
+        "id":353,
+        "disease_name":"domestic violence"
+    },
+    {
+        "id":354,
+        "disease_name":"dry eye syndrome"
+    },
+    {
+        "id":355,
+        "disease_name":"dry mouth"
+    },
+    {
+        "id":356,
+        "disease_name":"dry socket"
+    },
+    {
+        "id":357,
+        "disease_name":"dry socket in children"
+    },
+    {
+        "id":358,
+        "disease_name":"duodenitis"
+    },
+    {
+        "id":359,
+        "disease_name":"dupuytren contracture"
+    },
+    {
+        "id":360,
+        "disease_name":"dyscalculia in children"
+    },
+    {
+        "id":361,
+        "disease_name":"dyshidrotic eczema"
+    },
+    {
+        "id":362,
+        "disease_name":"dyslexia in children"
+    },
+    {
+        "id":363,
+        "disease_name":"dysmenorrhea"
+    },
+    {
+        "id":364,
+        "disease_name":"dyspareunia in women"
+    },
+    {
+        "id":365,
+        "disease_name":"dysphagia"
+    },
+    {
+        "id":366,
+        "disease_name":"dyspnea"
+    },
+    {
+        "id":367,
+        "disease_name":"dysthymic disorder"
+    },
+    {
+        "id":368,
+        "disease_name":"ear foreign body"
+    },
+    {
+        "id":369,
+        "disease_name":"ear infection"
+    },
+    {
+        "id":370,
+        "disease_name":"ear infection in children"
+    },
+    {
+        "id":371,
+        "disease_name":"ear polyps in children "
+    },
+    {
+        "id":372,
+        "disease_name":"early labor signs"
+    },
+    {
+        "id":373,
+        "disease_name":"earwax blockage"
+    },
+    {
+        "id":374,
+        "disease_name":"ectopic pregnancy"
+    },
+    {
+        "id":375,
+        "disease_name":"eczema"
+    },
+    {
+        "id":376,
+        "disease_name":"eczema in children"
+    },
+    {
+        "id":377,
+        "disease_name":"edema"
+    },
+    {
+        "id":378,
+        "disease_name":"ejaculatory disorders"
+    },
+    {
+        "id":379,
+        "disease_name":"elbow bursitis"
+    },
+    {
+        "id":380,
+        "disease_name":"elbow dislocation"
+    },
+    {
+        "id":381,
+        "disease_name":"elbow fracture"
+    },
+    {
+        "id":382,
+        "disease_name":"elbow fracture in children"
+    },
+    {
+        "id":383,
+        "disease_name":"elbow strain"
+    },
+    {
+        "id":384,
+        "disease_name":"elder neglect"
+    },
+    {
+        "id":385,
+        "disease_name":"electrical burn in children"
+    },
+    {
+        "id":386,
+        "disease_name":"electrical burns in adults"
+    },
+    {
+        "id":387,
+        "disease_name":"elevated inr"
+    },
+    {
+        "id":388,
+        "disease_name":"emphysema"
+    },
+    {
+        "id":389,
+        "disease_name":"encephalopathy"
+    },
+    {
+        "id":390,
+        "disease_name":"end stage kidney disease"
+    },
+    {
+        "id":391,
+        "disease_name":"endocarditis"
+    },
+    {
+        "id":392,
+        "disease_name":"endocarditis in children"
+    },
+    {
+        "id":393,
+        "disease_name":"endometrial cancer"
+    },
+    {
+        "id":393,
+        "disease_name":"endometrial cancer"
+    },
+    {
+        "id":394,
+        "disease_name":"endometrial polyps"
+    },
+    {
+        "id":395,
+        "disease_name":"endometriosis"
+    },
+    {
+        "id":396,
+        "disease_name":"endometritis"
+    },
+    {
+        "id":397,
+        "disease_name":"enlarged prostate (bph)"
+    },
+    {
+        "id":398,
+        "disease_name":"enlarged spleen"
+    },
+    {
+        "id":399,
+        "disease_name":"enteritis"
+    },
+    {
+        "id":400,
+        "disease_name":"enterocele"
+    },
+    {
+        "id":401,
+        "disease_name":"epididymitis"
+    },
+    {
+        "id":402,
+        "disease_name":"epididymo-orchitis"
+    },
+    {
+        "id":403,
+        "disease_name":"epigastric pain"
+    },
+    {
+        "id":404,
+        "disease_name":"epiglottitis"
+    },
+    {
+        "id":405,
+        "disease_name":"epiglottitis in children"
+    },
+    {
+        "id":406,
+        "disease_name":"epilepsy in older adults"
+    },
+    {
+        "id":407,
+        "disease_name":"epiploic appendagitis"
+    },
+    {
+        "id":408,
+        "disease_name":"erythema infectiosum (fifth disease)"
+    },
+    {
+        "id":409,
+        "disease_name":"erythroblastosis fetalis"
+    },
+    {
+        "id":410,
+        "disease_name":"esophageal cancer"
+    },
+    {
+        "id":410,
+        "disease_name":"esophageal cancer"
+    },
+    {
+        "id":411,
+        "disease_name":"esophageal foreign body"
+    },
+    {
+        "id":412,
+        "disease_name":"esophageal foreign body in children"
+    },
+    {
+        "id":413,
+        "disease_name":"esophageal spasm"
+    },
+    {
+        "id":414,
+        "disease_name":"esophageal stricture"
+    },
+    {
+        "id":415,
+        "disease_name":"esophageal varices"
+    },
+    {
+        "id":416,
+        "disease_name":"esophagitis"
+    },
+    {
+        "id":417,
+        "disease_name":"essential tremor"
+    },
+    {
+        "id":418,
+        "disease_name":"essential tremor in children"
+    },
+    {
+        "id":419,
+        "disease_name":"eustachian tube dysfunction"
+    },
+    {
+        "id":420,
+        "disease_name":"exanthem subitum"
+    },
+    {
+        "id":421,
+        "disease_name":"executive function disorder in children"
+    },
+    {
+        "id":422,
+        "disease_name":"exercise-induced bronchoconstriction"
+    },
+    {
+        "id":423,
+        "disease_name":"exercise-induced bronchospasm in children"
+    },
+    {
+        "id":424,
+        "disease_name":"extravasation"
+    },
+    {
+        "id":425,
+        "disease_name":"eye foreign body"
+    },
+    {
+        "id":426,
+        "disease_name":"eye foreign body in children"
+    },
+    {
+        "id":427,
+        "disease_name":"eyelid swelling"
+    },
+    {
+        "id":428,
+        "disease_name":"facial contusion"
+    },
+    {
+        "id":429,
+        "disease_name":"facial fracture"
+    },
+    {
+        "id":430,
+        "disease_name":"facial fracture in children"
+    },
+    {
+        "id":431,
+        "disease_name":"failure to thrive"
+    },
+    {
+        "id":432,
+        "disease_name":"familial adenomatous polyposis"
+    },
+    {
+        "id":433,
+        "disease_name":"febrile seizure in children"
+    },
+    {
+        "id":434,
+        "disease_name":"fecal impaction"
+    },
+    {
+        "id":435,
+        "disease_name":"female athlete triad"
+    },
+    {
+        "id":436,
+        "disease_name":"fever in adults"
+    },
+    {
+        "id":437,
+        "disease_name":"fever in children"
+    },
+    {
+        "id":438,
+        "disease_name":"fibrocystic breast changes"
+    },
+    {
+        "id":439,
+        "disease_name":"fibromyalgia"
+    },
+    {
+        "id":440,
+        "disease_name":"finger dislocation"
+    },
+    {
+        "id":441,
+        "disease_name":"finger fracture"
+    },
+    {
+        "id":442,
+        "disease_name":"finger fracture in children"
+    },
+    {
+        "id":443,
+        "disease_name":"finger laceration"
+    },
+    {
+        "id":444,
+        "disease_name":"flash burn of skin"
+    },
+    {
+        "id":445,
+        "disease_name":"flatfoot"
+    },
+    {
+        "id":446,
+        "disease_name":"flatfoot in children"
+    },
+    {
+        "id":447,
+        "disease_name":"folliculitis"
+    },
+    {
+        "id":448,
+        "disease_name":"food allergy"
+    },
+    {
+        "id":449,
+        "disease_name":"food poisoning"
+    },
+    {
+        "id":450,
+        "disease_name":"foot contusion"
+    },
+    {
+        "id":451,
+        "disease_name":"foot drop"
+    },
+    {
+        "id":452,
+        "disease_name":"foot fracture in adults"
+    },
+    {
+        "id":453,
+        "disease_name":"foot fracture in children"
+    },
+    {
+        "id":454,
+        "disease_name":"foot sprain"
+    },
+    {
+        "id":455,
+        "disease_name":"foreign body ingestion"
+    },
+    {
+        "id":456,
+        "disease_name":"foreign body ingestion in children"
+    },
+    {
+        "id":457,
+        "disease_name":"frontal lobe seizures"
+    },
+    {
+        "id":458,
+        "disease_name":"frontal lobe seizures in children"
+    },
+    {
+        "id":459,
+        "disease_name":"frostbite"
+    },
+    {
+        "id":460,
+        "disease_name":"fungal meningitis"
+    },
+    {
+        "id":460,
+        "disease_name":"fungal meningitis"
+    },
+    {
+        "id":461,
+        "disease_name":"furunculosis and carbunculosis"
+    },
+    {
+        "id":462,
+        "disease_name":"gallstones"
+    },
+    {
+        "id":463,
+        "disease_name":"ganglion cyst"
+    },
+    {
+        "id":464,
+        "disease_name":"gangrene"
+    },
+    {
+        "id":465,
+        "disease_name":"gangrene in children"
+    },
+    {
+        "id":466,
+        "disease_name":"gastritis"
+    },
+    {
+        "id":467,
+        "disease_name":"gastritis in children"
+    },
+    {
+        "id":468,
+        "disease_name":"gastroenteritis"
+    },
+    {
+        "id":469,
+        "disease_name":"gastroenteritis in children"
+    },
+    {
+        "id":470,
+        "disease_name":"gastroesophageal reflux in infants"
+    },
+    {
+        "id":471,
+        "disease_name":"gastrointestinal bleeding"
+    },
+    {
+        "id":472,
+        "disease_name":"gastrointestinal bleeding in children"
+    },
+    {
+        "id":473,
+        "disease_name":"gastrointestinal fistula"
+    },
+    {
+        "id":474,
+        "disease_name":"gastroparesis"
+    },
+    {
+        "id":475,
+        "disease_name":"generalized anxiety disorder"
+    },
+    {
+        "id":476,
+        "disease_name":"generalized anxiety disorder in children"
+    },
+    {
+        "id":477,
+        "disease_name":"generalized tonic clonic seizures"
+    },
+    {
+        "id":478,
+        "disease_name":"genital herpes infection"
+    },
+    {
+        "id":479,
+        "disease_name":"genital warts"
+    },
+    {
+        "id":480,
+        "disease_name":"geographic tongue"
+    },
+    {
+        "id":481,
+        "disease_name":"gerd (gastroesophageal reflux disease)"
+    },
+    {
+        "id":482,
+        "disease_name":"gestational diabetes"
+    },
+    {
+        "id":483,
+        "disease_name":"giardiasis"
+    },
+    {
+        "id":483,
+        "disease_name":"giardiasis"
+    },
+    {
+        "id":484,
+        "disease_name":"gingivitis"
+    },
+    {
+        "id":485,
+        "disease_name":"gingivostomatitis"
+    },
+    {
+        "id":486,
+        "disease_name":"gingivostomatitis in children"
+    },
+    {
+        "id":487,
+        "disease_name":"glaucoma"
+    },
+    {
+        "id":488,
+        "disease_name":"glioblastoma"
+    },
+    {
+        "id":489,
+        "disease_name":"glomerulonephritis"
+    },
+    {
+        "id":490,
+        "disease_name":"golfer's elbow"
+    },
+    {
+        "id":491,
+        "disease_name":"gonorrhea"
+    },
+    {
+        "id":491,
+        "disease_name":"gonorrhea"
+    },
+    {
+        "id":492,
+        "disease_name":"granulomatosis with polyangiitis"
+    },
+    {
+        "id":493,
+        "disease_name":"graves disease"
+    },
+    {
+        "id":494,
+        "disease_name":"grief and loss"
+    },
+    {
+        "id":495,
+        "disease_name":"group b strep"
+    },
+    {
+        "id":496,
+        "disease_name":"growth hormone deficiency in adults"
+    },
+    {
+        "id":497,
+        "disease_name":"growth hormone deficiency in children"
+    },
+    {
+        "id":498,
+        "disease_name":"guillain-barre syndrome"
+    },
+    {
+        "id":499,
+        "disease_name":"gynecomastia"
+    },
+    {
+        "id":500,
+        "disease_name":"hamstring injury"
+    },
+    {
+        "id":501,
+        "disease_name":"hand foot syndrome"
+    },
+    {
+        "id":502,
+        "disease_name":"hand fracture"
+    },
+    {
+        "id":503,
+        "disease_name":"hand fracture in children"
+    },
+    {
+        "id":504,
+        "disease_name":"hand, foot, and mouth disease"
+    },
+    {
+        "id":505,
+        "disease_name":"hansen disease (leprosy)"
+    },
+    {
+        "id":506,
+        "disease_name":"head injury"
+    },
+    {
+        "id":507,
+        "disease_name":"head injury in children"
+    },
+    {
+        "id":508,
+        "disease_name":"head lice in children"
+    },
+    {
+        "id":509,
+        "disease_name":"hearing loss"
+    },
+    {
+        "id":510,
+        "disease_name":"hearing loss in children"
+    },
+    {
+        "id":511,
+        "disease_name":"heart attack"
+    },
+    {
+        "id":512,
+        "disease_name":"heart block"
+    },
+    {
+        "id":513,
+        "disease_name":"heart failure"
+    },
+    {
+        "id":514,
+        "disease_name":"heart murmur"
+    },
+    {
+        "id":515,
+        "disease_name":"heat exhaustion"
+    },
+    {
+        "id":516,
+        "disease_name":"heatstroke"
+    },
+    {
+        "id":517,
+        "disease_name":"heel spur"
+    },
+    {
+        "id":518,
+        "disease_name":"helicobacter pylori"
+    },
+    {
+        "id":519,
+        "disease_name":"hellp syndrome"
+    },
+    {
+        "id":520,
+        "disease_name":"hemarthrosis"
+    },
+    {
+        "id":521,
+        "disease_name":"hematuria"
+    },
+    {
+        "id":522,
+        "disease_name":"hemochromatosis"
+    },
+    {
+        "id":523,
+        "disease_name":"hemolytic anemia"
+    },
+    {
+        "id":524,
+        "disease_name":"hemolytic uremic syndrome"
+    },
+    {
+        "id":525,
+        "disease_name":"hemophilia"
+    },
+    {
+        "id":526,
+        "disease_name":"hemophilia in children"
+    },
+    {
+        "id":527,
+        "disease_name":"hemorrhoids"
+    },
+    {
+        "id":528,
+        "disease_name":"henoch-schonlein purpura"
+    },
+    {
+        "id":529,
+        "disease_name":"heparin-induced thrombocytopenia"
+    },
+    {
+        "id":530,
+        "disease_name":"hepatic encephalopathy"
+    },
+    {
+        "id":531,
+        "disease_name":"hepatitis a"
+    },
+    {
+        "id":532,
+        "disease_name":"hepatitis a in children"
+    },
+    {
+        "id":533,
+        "disease_name":"hepatitis b"
+    },
+    {
+        "id":533,
+        "disease_name":"hepatitis b"
+    },
+    {
+        "id":534,
+        "disease_name":"hepatitis b in children"
+    },
+    {
+        "id":535,
+        "disease_name":"hepatitis c"
+    },
+    {
+        "id":535,
+        "disease_name":"hepatitis c"
+    },
+    {
+        "id":536,
+        "disease_name":"hepatitis c in children"
+    },
+    {
+        "id":537,
+        "disease_name":"hiatal hernia"
+    },
+    {
+        "id":538,
+        "disease_name":"hiatal hernia in children"
+    },
+    {
+        "id":539,
+        "disease_name":"hidradenitis suppurativa"
+    },
+    {
+        "id":540,
+        "disease_name":"hip bursitis"
+    },
+    {
+        "id":541,
+        "disease_name":"hip contusion"
+    },
+    {
+        "id":542,
+        "disease_name":"hip dislocation"
+    },
+    {
+        "id":543,
+        "disease_name":"hip fracture"
+    },
+    {
+        "id":544,
+        "disease_name":"hip impingement"
+    },
+    {
+        "id":545,
+        "disease_name":"histoplasmosis"
+    },
+    {
+        "id":546,
+        "disease_name":"histoplasmosis in children"
+    },
+    {
+        "id":547,
+        "disease_name":"hiv infection"
+    },
+    {
+        "id":548,
+        "disease_name":"hiv\/aids"
+    },
+    {
+        "id":549,
+        "disease_name":"hodgkin lymphoma"
+    },
+    {
+        "id":550,
+        "disease_name":"hormone replacement therapy in women"
+    },
+    {
+        "id":551,
+        "disease_name":"horner syndrome"
+    },
+    {
+        "id":552,
+        "disease_name":"horner syndrome in children"
+    },
+    {
+        "id":553,
+        "disease_name":"hospital acquired pneumonia"
+    },
+    {
+        "id":554,
+        "disease_name":"human bite"
+    },
+    {
+        "id":555,
+        "disease_name":"hydrocele"
+    },
+    {
+        "id":556,
+        "disease_name":"hydrocele in children"
+    },
+    {
+        "id":557,
+        "disease_name":"hydrocephalus"
+    },
+    {
+        "id":558,
+        "disease_name":"hydrocephalus in children"
+    },
+    {
+        "id":559,
+        "disease_name":"hydronephrosis"
+    },
+    {
+        "id":560,
+        "disease_name":"hydronephrosis in children"
+    },
+    {
+        "id":561,
+        "disease_name":"hypercalcemia"
+    },
+    {
+        "id":562,
+        "disease_name":"hyperemesis gravidarum"
+    },
+    {
+        "id":563,
+        "disease_name":"hypereosinophilic syndrome"
+    },
+    {
+        "id":564,
+        "disease_name":"hyperkalemia"
+    },
+    {
+        "id":565,
+        "disease_name":"hypermagnesemia"
+    },
+    {
+        "id":566,
+        "disease_name":"hypernatremia"
+    },
+    {
+        "id":567,
+        "disease_name":"hyperosmolar hyperglycemic state"
+    },
+    {
+        "id":568,
+        "disease_name":"hyperparathyroidism"
+    },
+    {
+        "id":569,
+        "disease_name":"hypertension"
+    },
+    {
+        "id":569,
+        "disease_name":"hypertension"
+    },
+    {
+        "id":570,
+        "disease_name":"hypertension and diabetes"
+    },
+    {
+        "id":571,
+        "disease_name":"hypertension during pregnancy"
+    },
+    {
+        "id":571,
+        "disease_name":"hypertension during pregnancy"
+    },
+    {
+        "id":572,
+        "disease_name":"hypertension in adolescents"
+    },
+    {
+        "id":573,
+        "disease_name":"hypertension in children"
+    },
+    {
+        "id":574,
+        "disease_name":"hypertension in the older adult"
+    },
+    {
+        "id":575,
+        "disease_name":"hypertensive crisis"
+    },
+    {
+        "id":576,
+        "disease_name":"hyperthyroidism"
+    },
+    {
+        "id":577,
+        "disease_name":"hyperthyroidism in pregnancy"
+    },
+    {
+        "id":578,
+        "disease_name":"hypertrophic cardiomyopathy"
+    },
+    {
+        "id":579,
+        "disease_name":"hyphema"
+    },
+    {
+        "id":580,
+        "disease_name":"hypocalcemia"
+    },
+    {
+        "id":581,
+        "disease_name":"hypoglycemia in adolescents with diabetes"
+    },
+    {
+        "id":582,
+        "disease_name":"hypoglycemia in infancy"
+    },
+    {
+        "id":583,
+        "disease_name":"hypogonadism"
+    },
+    {
+        "id":584,
+        "disease_name":"hypokalemia"
+    },
+    {
+        "id":585,
+        "disease_name":"hypomagnesemia"
+    },
+    {
+        "id":586,
+        "disease_name":"hypomineralization of the tooth"
+    },
+    {
+        "id":587,
+        "disease_name":"hyponatremia"
+    },
+    {
+        "id":588,
+        "disease_name":"hypophosphatemia"
+    },
+    {
+        "id":589,
+        "disease_name":"hypopituitarism"
+    },
+    {
+        "id":590,
+        "disease_name":"hypotension"
+    },
+    {
+        "id":591,
+        "disease_name":"hypotension in infants"
+    },
+    {
+        "id":592,
+        "disease_name":"hypothyroidism"
+    },
+    {
+        "id":593,
+        "disease_name":"hypothyroidism in pregnancy"
+    },
+    {
+        "id":594,
+        "disease_name":"hypoxia"
+    },
+    {
+        "id":595,
+        "disease_name":"idiopathic intracranial hypertension"
+    },
+    {
+        "id":596,
+        "disease_name":"ileus"
+    },
+    {
+        "id":597,
+        "disease_name":"iliotibial band syndrome"
+    },
+    {
+        "id":598,
+        "disease_name":"immune thrombocytopenia"
+    },
+    {
+        "id":599,
+        "disease_name":"immune thrombocytopenia in children"
+    },
+    {
+        "id":600,
+        "disease_name":"impulse control disorder"
+    },
+    {
+        "id":601,
+        "disease_name":"impulse control disorder in children"
+    },
+    {
+        "id":602,
+        "disease_name":"incisional hernia"
+    },
+    {
+        "id":603,
+        "disease_name":"incompetent cervix"
+    },
+    {
+        "id":604,
+        "disease_name":"indigestion"
+    },
+    {
+        "id":605,
+        "disease_name":"induced thyroid disorders"
+    },
+    {
+        "id":606,
+        "disease_name":"infant colic"
+    },
+    {
+        "id":607,
+        "disease_name":"infant thrush"
+    },
+    {
+        "id":608,
+        "disease_name":"infantile acropustulosis"
+    },
+    {
+        "id":609,
+        "disease_name":"infantile hemangioma"
+    },
+    {
+        "id":610,
+        "disease_name":"influenza"
+    },
+    {
+        "id":611,
+        "disease_name":"influenza in children"
+    },
+    {
+        "id":612,
+        "disease_name":"ingrown nail"
+    },
+    {
+        "id":613,
+        "disease_name":"inguinal hernia"
+    },
+    {
+        "id":614,
+        "disease_name":"inguinal hernia in children"
+    },
+    {
+        "id":615,
+        "disease_name":"insect bite or sting"
+    },
+    {
+        "id":616,
+        "disease_name":"intestinal metaplasia"
+    },
+    {
+        "id":617,
+        "disease_name":"intimate partner abuse in pregnancy"
+    },
+    {
+        "id":618,
+        "disease_name":"intracerebral hemorrhage"
+    },
+    {
+        "id":619,
+        "disease_name":"intracranial hematoma"
+    },
+    {
+        "id":620,
+        "disease_name":"intussusception in children"
+    },
+    {
+        "id":621,
+        "disease_name":"iritis"
+    },
+    {
+        "id":622,
+        "disease_name":"iron deficiency anemia"
+    },
+    {
+        "id":623,
+        "disease_name":"irritable bowel syndrome"
+    },
+    {
+        "id":624,
+        "disease_name":"ischemic colitis"
+    },
+    {
+        "id":625,
+        "disease_name":"ischemic stroke"
+    },
+    {
+        "id":626,
+        "disease_name":"jammed finger"
+    },
+    {
+        "id":627,
+        "disease_name":"jaw dislocation"
+    },
+    {
+        "id":628,
+        "disease_name":"jaw fracture in adults"
+    },
+    {
+        "id":629,
+        "disease_name":"jaw fracture in children"
+    },
+    {
+        "id":630,
+        "disease_name":"jock itch"
+    },
+    {
+        "id":631,
+        "disease_name":"juvenile absence epilepsy"
+    },
+    {
+        "id":632,
+        "disease_name":"juvenile arthritis"
+    },
+    {
+        "id":633,
+        "disease_name":"juvenile myoclonic epilepsy"
+    },
+    {
+        "id":634,
+        "disease_name":"kaposi's sarcoma"
+    },
+    {
+        "id":635,
+        "disease_name":"kawasaki disease"
+    },
+    {
+        "id":636,
+        "disease_name":"keratitis"
+    },
+    {
+        "id":637,
+        "disease_name":"keratoconus"
+    },
+    {
+        "id":638,
+        "disease_name":"kidney cyst"
+    },
+    {
+        "id":639,
+        "disease_name":"kidney infection"
+    },
+    {
+        "id":640,
+        "disease_name":"kidney infection in children"
+    },
+    {
+        "id":641,
+        "disease_name":"kidney stones"
+    },
+    {
+        "id":642,
+        "disease_name":"kidney stones in children"
+    },
+    {
+        "id":643,
+        "disease_name":"knee bursitis"
+    },
+    {
+        "id":644,
+        "disease_name":"knee dislocation"
+    },
+    {
+        "id":645,
+        "disease_name":"knee sprain"
+    },
+    {
+        "id":646,
+        "disease_name":"knee sprain in children"
+    },
+    {
+        "id":647,
+        "disease_name":"labyrinthitis"
+    },
+    {
+        "id":648,
+        "disease_name":"laceration"
+    },
+    {
+        "id":649,
+        "disease_name":"laceration in children"
+    },
+    {
+        "id":650,
+        "disease_name":"lactic acidosis"
+    },
+    {
+        "id":651,
+        "disease_name":"lactose intolerance"
+    },
+    {
+        "id":652,
+        "disease_name":"laryngitis"
+    },
+    {
+        "id":653,
+        "disease_name":"laryngospasm"
+    },
+    {
+        "id":654,
+        "disease_name":"latex allergy"
+    },
+    {
+        "id":655,
+        "disease_name":"lattice degeneration"
+    },
+    {
+        "id":656,
+        "disease_name":"lead poisoning in adults"
+    },
+    {
+        "id":657,
+        "disease_name":"lead poisoning in children"
+    },
+    {
+        "id":658,
+        "disease_name":"left hemispheric stroke"
+    },
+    {
+        "id":659,
+        "disease_name":"left-sided and right-sided heart failure"
+    },
+    {
+        "id":660,
+        "disease_name":"leg fracture"
+    },
+    {
+        "id":661,
+        "disease_name":"leg fracture in children"
+    },
+    {
+        "id":662,
+        "disease_name":"legionnaires disease"
+    },
+    {
+        "id":663,
+        "disease_name":"leishmaniasis"
+    },
+    {
+        "id":663,
+        "disease_name":"leishmaniasis"
+    },
+    {
+        "id":664,
+        "disease_name":"leukocytosis"
+    },
+    {
+        "id":665,
+        "disease_name":"lichen sclerosus"
+    },
+    {
+        "id":666,
+        "disease_name":"lightning injuries"
+    },
+    {
+        "id":667,
+        "disease_name":"lipoma"
+    },
+    {
+        "id":668,
+        "disease_name":"liposarcoma"
+    },
+    {
+        "id":669,
+        "disease_name":"lithium toxicity"
+    },
+    {
+        "id":670,
+        "disease_name":"liver abscess"
+    },
+    {
+        "id":671,
+        "disease_name":"liver cancer"
+    },
+    {
+        "id":671,
+        "disease_name":"liver cancer"
+    },
+    {
+        "id":672,
+        "disease_name":"liver or spleen laceration"
+    },
+    {
+        "id":673,
+        "disease_name":"long covid"
+    },
+    {
+        "id":674,
+        "disease_name":"low back strain"
+    },
+    {
+        "id":675,
+        "disease_name":"low-grade glioma"
+    },
+    {
+        "id":676,
+        "disease_name":"lumbar disc herniation"
+    },
+    {
+        "id":677,
+        "disease_name":"lumbar radiculopathy"
+    },
+    {
+        "id":678,
+        "disease_name":"lumbar spinal stenosis"
+    },
+    {
+        "id":679,
+        "disease_name":"lung abscess"
+    },
+    {
+        "id":680,
+        "disease_name":"lung cancer"
+    },
+    {
+        "id":680,
+        "disease_name":"lung cancer"
+    },
+    {
+        "id":681,
+        "disease_name":"lupus erythematosus"
+    },
+    {
+        "id":682,
+        "disease_name":"lyme disease"
+    },
+    {
+        "id":683,
+        "disease_name":"lymphadenopathy"
+    },
+    {
+        "id":684,
+        "disease_name":"lymphangitis"
+    },
+    {
+        "id":685,
+        "disease_name":"lymphedema"
+    },
+    {
+        "id":686,
+        "disease_name":"macular degeneration"
+    },
+    {
+        "id":687,
+        "disease_name":"macular edema"
+    },
+    {
+        "id":688,
+        "disease_name":"malaria"
+    },
+    {
+        "id":688,
+        "disease_name":"malaria"
+    },
+    {
+        "id":689,
+        "disease_name":"mallory-weiss syndrome"
+    },
+    {
+        "id":690,
+        "disease_name":"malnutrition"
+    },
+    {
+        "id":691,
+        "disease_name":"marfan syndrome"
+    },
+    {
+        "id":692,
+        "disease_name":"marfan syndrome in children"
+    },
+    {
+        "id":693,
+        "disease_name":"marine animal bite or sting"
+    },
+    {
+        "id":694,
+        "disease_name":"mastitis"
+    },
+    {
+        "id":695,
+        "disease_name":"mastoiditis"
+    },
+    {
+        "id":696,
+        "disease_name":"mastoiditis in children"
+    },
+    {
+        "id":697,
+        "disease_name":"math anxiety in children"
+    },
+    {
+        "id":698,
+        "disease_name":"measles in adults"
+    },
+    {
+        "id":699,
+        "disease_name":"measles in children"
+    },
+    {
+        "id":700,
+        "disease_name":"meconium aspiration syndrome"
+    },
+    {
+        "id":701,
+        "disease_name":"melanoma"
+    },
+    {
+        "id":702,
+        "disease_name":"memory loss in older adults"
+    },
+    {
+        "id":703,
+        "disease_name":"meniere disease"
+    },
+    {
+        "id":704,
+        "disease_name":"meningioma"
+    },
+    {
+        "id":705,
+        "disease_name":"meniscus tear"
+    },
+    {
+        "id":706,
+        "disease_name":"menopause"
+    },
+    {
+        "id":707,
+        "disease_name":"menorrhagia"
+    },
+    {
+        "id":708,
+        "disease_name":"mers (middle east respiratory syndrome)"
+    },
+    {
+        "id":709,
+        "disease_name":"mesenteric adenitis"
+    },
+    {
+        "id":710,
+        "disease_name":"metabolic acidosis"
+    },
+    {
+        "id":711,
+        "disease_name":"metabolic alkalosis"
+    },
+    {
+        "id":712,
+        "disease_name":"metabolic syndrome x"
+    },
+    {
+        "id":713,
+        "disease_name":"metatarsalgia"
+    },
+    {
+        "id":714,
+        "disease_name":"methamphetamine use disorder"
+    },
+    {
+        "id":715,
+        "disease_name":"microcephaly"
+    },
+    {
+        "id":716,
+        "disease_name":"microscopic colitis"
+    },
+    {
+        "id":717,
+        "disease_name":"migraine headache"
+    },
+    {
+        "id":718,
+        "disease_name":"migraine headache in children"
+    },
+    {
+        "id":719,
+        "disease_name":"mild cognitive impairment: new diagnosis"
+    },
+    {
+        "id":720,
+        "disease_name":"milk allergy"
+    },
+    {
+        "id":721,
+        "disease_name":"miscarriage"
+    },
+    {
+        "id":722,
+        "disease_name":"mitral regurgitation"
+    },
+    {
+        "id":723,
+        "disease_name":"mitral stenosis"
+    },
+    {
+        "id":724,
+        "disease_name":"mitral valve prolapse"
+    },
+    {
+        "id":725,
+        "disease_name":"mittelschmerz"
+    },
+    {
+        "id":726,
+        "disease_name":"molluscum contagiosum"
+    },
+    {
+        "id":727,
+        "disease_name":"molluscum contagiosum in children"
+    },
+    {
+        "id":728,
+        "disease_name":"mononucleosis"
+    },
+    {
+        "id":729,
+        "disease_name":"morton neuroma"
+    },
+    {
+        "id":730,
+        "disease_name":"motion sickness"
+    },
+    {
+        "id":731,
+        "disease_name":"mouth cancer"
+    },
+    {
+        "id":731,
+        "disease_name":"mouth cancer"
+    },
+    {
+        "id":732,
+        "disease_name":"mpox (monkeypox)"
+    },
+    {
+        "id":733,
+        "disease_name":"mrsa (methicillin-resistant staphylococcus aureus)"
+    },
+    {
+        "id":734,
+        "disease_name":"multiple myeloma"
+    },
+    {
+        "id":735,
+        "disease_name":"multiple sclerosis"
+    },
+    {
+        "id":736,
+        "disease_name":"mumps in adults"
+    },
+    {
+        "id":737,
+        "disease_name":"mumps in children"
+    },
+    {
+        "id":738,
+        "disease_name":"muscle cramp"
+    },
+    {
+        "id":739,
+        "disease_name":"muscle strain"
+    },
+    {
+        "id":740,
+        "disease_name":"mustard poisoning"
+    },
+    {
+        "id":741,
+        "disease_name":"myasthenia gravis"
+    },
+    {
+        "id":742,
+        "disease_name":"myasthenic crisis"
+    },
+    {
+        "id":743,
+        "disease_name":"myocarditis"
+    },
+    {
+        "id":744,
+        "disease_name":"myxedema coma"
+    },
+    {
+        "id":745,
+        "disease_name":"nail fungus"
+    },
+    {
+        "id":746,
+        "disease_name":"narcolepsy"
+    },
+    {
+        "id":747,
+        "disease_name":"narcotic use disorder"
+    },
+    {
+        "id":748,
+        "disease_name":"narcotic withdrawal"
+    },
+    {
+        "id":749,
+        "disease_name":"nasal contusion"
+    },
+    {
+        "id":750,
+        "disease_name":"nasal foreign body in children"
+    },
+    {
+        "id":751,
+        "disease_name":"nasal fracture"
+    },
+    {
+        "id":752,
+        "disease_name":"nasal fracture in children"
+    },
+    {
+        "id":753,
+        "disease_name":"near syncope"
+    },
+    {
+        "id":754,
+        "disease_name":"near-drowning injuries"
+    },
+    {
+        "id":755,
+        "disease_name":"near-drowning injuries in children"
+    },
+    {
+        "id":756,
+        "disease_name":"necrotizing enterocolitis"
+    },
+    {
+        "id":757,
+        "disease_name":"necrotizing fasciitis"
+    },
+    {
+        "id":758,
+        "disease_name":"neonatal abstinence syndrome"
+    },
+    {
+        "id":759,
+        "disease_name":"neonatal hydronephrosis"
+    },
+    {
+        "id":760,
+        "disease_name":"nephrogenic systemic fibrosis"
+    },
+    {
+        "id":761,
+        "disease_name":"nerve gas poisoning"
+    },
+    {
+        "id":762,
+        "disease_name":"neurapraxia"
+    },
+    {
+        "id":763,
+        "disease_name":"neuroblastoma"
+    },
+    {
+        "id":764,
+        "disease_name":"neurogenic bladder"
+    },
+    {
+        "id":765,
+        "disease_name":"neuromuscular disease"
+    },
+    {
+        "id":766,
+        "disease_name":"neutropenia"
+    },
+    {
+        "id":767,
+        "disease_name":"new-onset seizure in adults"
+    },
+    {
+        "id":768,
+        "disease_name":"new-onset seizure in children"
+    },
+    {
+        "id":769,
+        "disease_name":"night terrors"
+    },
+    {
+        "id":770,
+        "disease_name":"nipple discharge"
+    },
+    {
+        "id":771,
+        "disease_name":"non-diabetic hypoglycemia"
+    },
+    {
+        "id":772,
+        "disease_name":"non-diabetic hypoglycemia in childhood"
+    },
+    {
+        "id":773,
+        "disease_name":"non-hodgkin lymphoma"
+    },
+    {
+        "id":774,
+        "disease_name":"nondiabetic hyperglycemia"
+    },
+    {
+        "id":775,
+        "disease_name":"nonepileptic seizures"
+    },
+    {
+        "id":776,
+        "disease_name":"nonprescription medication overdose in children"
+    },
+    {
+        "id":777,
+        "disease_name":"nonruptured abdominal aortic aneurysm"
+    },
+    {
+        "id":778,
+        "disease_name":"nonruptured cerebral aneurysm"
+    },
+    {
+        "id":779,
+        "disease_name":"nonspecific urethritis in men"
+    },
+    {
+        "id":780,
+        "disease_name":"obsessive compulsive disorder"
+    },
+    {
+        "id":781,
+        "disease_name":"ocular migraine"
+    },
+    {
+        "id":782,
+        "disease_name":"oligoasthenoteratozoospermia"
+    },
+    {
+        "id":783,
+        "disease_name":"oligohydramnios"
+    },
+    {
+        "id":784,
+        "disease_name":"opioid use disorder"
+    },
+    {
+        "id":785,
+        "disease_name":"opioid withdrawal"
+    },
+    {
+        "id":786,
+        "disease_name":"optic neuritis"
+    },
+    {
+        "id":787,
+        "disease_name":"oral candidiasis"
+    },
+    {
+        "id":788,
+        "disease_name":"oral herpes infection"
+    },
+    {
+        "id":789,
+        "disease_name":"oral mucositis"
+    },
+    {
+        "id":790,
+        "disease_name":"orbital cellulitis"
+    },
+    {
+        "id":791,
+        "disease_name":"orbital cellulitis in children"
+    },
+    {
+        "id":792,
+        "disease_name":"orbital fracture"
+    },
+    {
+        "id":793,
+        "disease_name":"orbital fracture in children"
+    },
+    {
+        "id":794,
+        "disease_name":"orchitis"
+    },
+    {
+        "id":795,
+        "disease_name":"oropharyngeal cancer"
+    },
+    {
+        "id":795,
+        "disease_name":"oropharyngeal cancer"
+    },
+    {
+        "id":796,
+        "disease_name":"osgood-schlatter disease"
+    },
+    {
+        "id":797,
+        "disease_name":"osteoarthritis"
+    },
+    {
+        "id":798,
+        "disease_name":"osteochondroma"
+    },
+    {
+        "id":799,
+        "disease_name":"osteolysis"
+    },
+    {
+        "id":800,
+        "disease_name":"osteomyelitis"
+    },
+    {
+        "id":801,
+        "disease_name":"osteomyelitis in children"
+    },
+    {
+        "id":802,
+        "disease_name":"osteoporosis"
+    },
+    {
+        "id":803,
+        "disease_name":"osteosarcoma"
+    },
+    {
+        "id":804,
+        "disease_name":"otosclerosis"
+    },
+    {
+        "id":805,
+        "disease_name":"ovarian abscess"
+    },
+    {
+        "id":806,
+        "disease_name":"ovarian cancer"
+    },
+    {
+        "id":806,
+        "disease_name":"ovarian cancer"
+    },
+    {
+        "id":807,
+        "disease_name":"ovarian cyst"
+    },
+    {
+        "id":808,
+        "disease_name":"ovarian torsion"
+    },
+    {
+        "id":809,
+        "disease_name":"pancreatic cancer"
+    },
+    {
+        "id":809,
+        "disease_name":"pancreatic cancer"
+    },
+    {
+        "id":810,
+        "disease_name":"pancreatic pseudocyst"
+    },
+    {
+        "id":811,
+        "disease_name":"pancreatitis"
+    },
+    {
+        "id":812,
+        "disease_name":"pancytopenia"
+    },
+    {
+        "id":813,
+        "disease_name":"pancytopenia in children"
+    },
+    {
+        "id":814,
+        "disease_name":"panic attack"
+    },
+    {
+        "id":815,
+        "disease_name":"panic attack in children"
+    },
+    {
+        "id":816,
+        "disease_name":"panic disorder"
+    },
+    {
+        "id":817,
+        "disease_name":"panic disorder in children"
+    },
+    {
+        "id":818,
+        "disease_name":"parainfluenza"
+    },
+    {
+        "id":818,
+        "disease_name":"parainfluenza"
+    },
+    {
+        "id":819,
+        "disease_name":"parathyroid adenoma"
+    },
+    {
+        "id":820,
+        "disease_name":"parkinson disease"
+    },
+    {
+        "id":821,
+        "disease_name":"paronychia"
+    },
+    {
+        "id":822,
+        "disease_name":"parotid duct obstruction"
+    },
+    {
+        "id":823,
+        "disease_name":"patellar dislocation"
+    },
+    {
+        "id":824,
+        "disease_name":"patellar fracture"
+    },
+    {
+        "id":825,
+        "disease_name":"patellar fracture in children"
+    },
+    {
+        "id":826,
+        "disease_name":"patellar tendinitis"
+    },
+    {
+        "id":827,
+        "disease_name":"patellofemoral pain syndrome"
+    },
+    {
+        "id":828,
+        "disease_name":"patent ductus arteriosus in children"
+    },
+    {
+        "id":829,
+        "disease_name":"patent foramen ovale"
+    },
+    {
+        "id":830,
+        "disease_name":"peanut allergy"
+    },
+    {
+        "id":831,
+        "disease_name":"pediculosis"
+    },
+    {
+        "id":832,
+        "disease_name":"pelvic avulsion fractures in adults"
+    },
+    {
+        "id":833,
+        "disease_name":"pelvic avulsion fractures in children"
+    },
+    {
+        "id":834,
+        "disease_name":"pelvic fracture"
+    },
+    {
+        "id":835,
+        "disease_name":"pelvic fracture in children"
+    },
+    {
+        "id":836,
+        "disease_name":"pelvic inflammatory disease"
+    },
+    {
+        "id":837,
+        "disease_name":"penetrating abdominal injury"
+    },
+    {
+        "id":838,
+        "disease_name":"penile cancer"
+    },
+    {
+        "id":838,
+        "disease_name":"penile cancer"
+    },
+    {
+        "id":839,
+        "disease_name":"penis fracture"
+    },
+    {
+        "id":840,
+        "disease_name":"peptic ulcer"
+    },
+    {
+        "id":841,
+        "disease_name":"perforated bowel"
+    },
+    {
+        "id":842,
+        "disease_name":"pericardial effusion"
+    },
+    {
+        "id":843,
+        "disease_name":"periodontal disease"
+    },
+    {
+        "id":844,
+        "disease_name":"periorbital cellulitis"
+    },
+    {
+        "id":845,
+        "disease_name":"periorbital cellulitis in children"
+    },
+    {
+        "id":846,
+        "disease_name":"peripheral artery disease"
+    },
+    {
+        "id":847,
+        "disease_name":"peripheral neuropathy"
+    },
+    {
+        "id":848,
+        "disease_name":"peripheral vascular disease"
+    },
+    {
+        "id":849,
+        "disease_name":"peritonitis"
+    },
+    {
+        "id":850,
+        "disease_name":"peritonsillar abscess"
+    },
+    {
+        "id":851,
+        "disease_name":"pertussis"
+    },
+    {
+        "id":852,
+        "disease_name":"pertussis in children"
+    },
+    {
+        "id":853,
+        "disease_name":"pharyngitis"
+    },
+    {
+        "id":854,
+        "disease_name":"pharyngitis in children"
+    },
+    {
+        "id":855,
+        "disease_name":"phenylketonuria in children"
+    },
+    {
+        "id":856,
+        "disease_name":"phimosis"
+    },
+    {
+        "id":857,
+        "disease_name":"photophobia"
+    },
+    {
+        "id":858,
+        "disease_name":"photosensitivity"
+    },
+    {
+        "id":859,
+        "disease_name":"physical abuse of the elderly"
+    },
+    {
+        "id":860,
+        "disease_name":"pilonidal cyst"
+    },
+    {
+        "id":861,
+        "disease_name":"pinworm infection"
+    },
+    {
+        "id":862,
+        "disease_name":"piriformis syndrome"
+    },
+    {
+        "id":863,
+        "disease_name":"pitted keratolysis"
+    },
+    {
+        "id":864,
+        "disease_name":"pituitary adenoma"
+    },
+    {
+        "id":865,
+        "disease_name":"pityriasis rosea"
+    },
+    {
+        "id":866,
+        "disease_name":"placenta previa"
+    },
+    {
+        "id":867,
+        "disease_name":"placental abruption"
+    },
+    {
+        "id":868,
+        "disease_name":"plague"
+    },
+    {
+        "id":869,
+        "disease_name":"plantar fasciitis"
+    },
+    {
+        "id":870,
+        "disease_name":"plantar wart"
+    },
+    {
+        "id":871,
+        "disease_name":"pleural effusion"
+    },
+    {
+        "id":872,
+        "disease_name":"pleural empyema"
+    },
+    {
+        "id":873,
+        "disease_name":"pleural mesothelioma"
+    },
+    {
+        "id":874,
+        "disease_name":"pleurisy"
+    },
+    {
+        "id":875,
+        "disease_name":"pneumocystis jiroveci pneumonia"
+    },
+    {
+        "id":876,
+        "disease_name":"pneumonia"
+    },
+    {
+        "id":876,
+        "disease_name":"pneumonia"
+    },
+    {
+        "id":877,
+        "disease_name":"pneumonia in children"
+    },
+    {
+        "id":878,
+        "disease_name":"pneumonitis"
+    },
+    {
+        "id":879,
+        "disease_name":"poison ivy"
+    },
+    {
+        "id":880,
+        "disease_name":"polycystic ovarian syndrome"
+    },
+    {
+        "id":881,
+        "disease_name":"polycythemia vera"
+    },
+    {
+        "id":882,
+        "disease_name":"polyhydramnios"
+    },
+    {
+        "id":883,
+        "disease_name":"polymyalgia rheumatica"
+    },
+    {
+        "id":884,
+        "disease_name":"polymyositis"
+    },
+    {
+        "id":885,
+        "disease_name":"polysubstance use disorder"
+    },
+    {
+        "id":886,
+        "disease_name":"pontiac fever"
+    },
+    {
+        "id":887,
+        "disease_name":"poor school performance in adolescents"
+    },
+    {
+        "id":888,
+        "disease_name":"porphyria cutanea tarda"
+    },
+    {
+        "id":889,
+        "disease_name":"portal hypertension"
+    },
+    {
+        "id":889,
+        "disease_name":"portal hypertension"
+    },
+    {
+        "id":890,
+        "disease_name":"post concussion syndrome"
+    },
+    {
+        "id":891,
+        "disease_name":"post concussion syndrome in children"
+    },
+    {
+        "id":892,
+        "disease_name":"posterior cruciate ligament injury"
+    },
+    {
+        "id":893,
+        "disease_name":"postoperative bleeding"
+    },
+    {
+        "id":894,
+        "disease_name":"postpartum hemorrhage"
+    },
+    {
+        "id":895,
+        "disease_name":"postpartum thyroiditis"
+    },
+    {
+        "id":896,
+        "disease_name":"pots (postural orthostatic tachycardia syndrome)"
+    },
+    {
+        "id":897,
+        "disease_name":"pouchitis"
+    },
+    {
+        "id":898,
+        "disease_name":"preeclampsia during pregnancy"
+    },
+    {
+        "id":899,
+        "disease_name":"premature atrial contractions"
+    },
+    {
+        "id":900,
+        "disease_name":"premenstrual syndrome"
+    },
+    {
+        "id":901,
+        "disease_name":"prescription narcotic overdose"
+    },
+    {
+        "id":902,
+        "disease_name":"prescription opioid overdose"
+    },
+    {
+        "id":903,
+        "disease_name":"preterm labor"
+    },
+    {
+        "id":904,
+        "disease_name":"primary ciliary dyskinesia"
+    },
+    {
+        "id":905,
+        "disease_name":"primary ciliary dyskinesia in children"
+    },
+    {
+        "id":906,
+        "disease_name":"primary immune deficiency disorder"
+    },
+    {
+        "id":907,
+        "disease_name":"proctitis"
+    },
+    {
+        "id":908,
+        "disease_name":"prolactinomas"
+    },
+    {
+        "id":909,
+        "disease_name":"prostate cancer"
+    },
+    {
+        "id":909,
+        "disease_name":"prostate cancer"
+    },
+    {
+        "id":910,
+        "disease_name":"prostatitis"
+    },
+    {
+        "id":911,
+        "disease_name":"proximal humerus fracture"
+    },
+    {
+        "id":912,
+        "disease_name":"pseudoaneurysm"
+    },
+    {
+        "id":913,
+        "disease_name":"pseudogout"
+    },
+    {
+        "id":914,
+        "disease_name":"psoriasis"
+    },
+    {
+        "id":915,
+        "disease_name":"psychological abuse of the elderly"
+    },
+    {
+        "id":916,
+        "disease_name":"psychotic disorder"
+    },
+    {
+        "id":917,
+        "disease_name":"pterygium"
+    },
+    {
+        "id":918,
+        "disease_name":"ptsd (post traumatic stress disorder)"
+    },
+    {
+        "id":919,
+        "disease_name":"pubic lice"
+    },
+    {
+        "id":920,
+        "disease_name":"pulled elbow in children"
+    },
+    {
+        "id":921,
+        "disease_name":"pulmonary arterial hypertension"
+    },
+    {
+        "id":922,
+        "disease_name":"pulmonary contusion"
+    },
+    {
+        "id":923,
+        "disease_name":"pulmonary edema"
+    },
+    {
+        "id":924,
+        "disease_name":"pulmonary embolism"
+    },
+    {
+        "id":925,
+        "disease_name":"pulmonary fibrosis"
+    },
+    {
+        "id":926,
+        "disease_name":"purpura"
+    },
+    {
+        "id":927,
+        "disease_name":"pyloric stenosis"
+    },
+    {
+        "id":928,
+        "disease_name":"rabies"
+    },
+    {
+        "id":928,
+        "disease_name":"rabies"
+    },
+    {
+        "id":929,
+        "disease_name":"radial nerve palsy"
+    },
+    {
+        "id":930,
+        "disease_name":"radiation sickness"
+    },
+    {
+        "id":931,
+        "disease_name":"raynaud disease"
+    },
+    {
+        "id":932,
+        "disease_name":"reactive airways disease"
+    },
+    {
+        "id":933,
+        "disease_name":"reading comprehension disorder in children"
+    },
+    {
+        "id":934,
+        "disease_name":"reading fluency disability in children"
+    },
+    {
+        "id":935,
+        "disease_name":"rectal abscess"
+    },
+    {
+        "id":936,
+        "disease_name":"rectal bleeding"
+    },
+    {
+        "id":937,
+        "disease_name":"rectal foreign body"
+    },
+    {
+        "id":938,
+        "disease_name":"rectal prolapse"
+    },
+    {
+        "id":939,
+        "disease_name":"rectal prolapse in children"
+    },
+    {
+        "id":940,
+        "disease_name":"rectocele"
+    },
+    {
+        "id":941,
+        "disease_name":"refractive errors of the eye"
+    },
+    {
+        "id":942,
+        "disease_name":"renal cancer"
+    },
+    {
+        "id":942,
+        "disease_name":"renal cancer"
+    },
+    {
+        "id":943,
+        "disease_name":"renal colic"
+    },
+    {
+        "id":944,
+        "disease_name":"respiratory distress syndrome in newborns"
+    },
+    {
+        "id":945,
+        "disease_name":"restrictive cardiomyopathy"
+    },
+    {
+        "id":946,
+        "disease_name":"retinal hemorrhage"
+    },
+    {
+        "id":947,
+        "disease_name":"retinitis pigmentosa"
+    },
+    {
+        "id":948,
+        "disease_name":"retractile testicle"
+    },
+    {
+        "id":949,
+        "disease_name":"reye syndrome"
+    },
+    {
+        "id":950,
+        "disease_name":"rh factor incompatibility"
+    },
+    {
+        "id":951,
+        "disease_name":"rhabdomyolysis"
+    },
+    {
+        "id":952,
+        "disease_name":"rheumatoid arthritis"
+    },
+    {
+        "id":953,
+        "disease_name":"rhinosinusitis"
+    },
+    {
+        "id":954,
+        "disease_name":"rib contusion"
+    },
+    {
+        "id":955,
+        "disease_name":"rib fracture"
+    },
+    {
+        "id":956,
+        "disease_name":"rib fracture in children"
+    },
+    {
+        "id":957,
+        "disease_name":"right hemispheric stroke"
+    },
+    {
+        "id":958,
+        "disease_name":"rocky mountain spotted fever"
+    },
+    {
+        "id":959,
+        "disease_name":"rosacea"
+    },
+    {
+        "id":960,
+        "disease_name":"rotator cuff injury"
+    },
+    {
+        "id":961,
+        "disease_name":"rotator cuff tendinitis"
+    },
+    {
+        "id":962,
+        "disease_name":"rotavirus infection in children"
+    },
+    {
+        "id":963,
+        "disease_name":"round ligament pain"
+    },
+    {
+        "id":964,
+        "disease_name":"rsv (respiratory syncytial virus) infection"
+    },
+    {
+        "id":965,
+        "disease_name":"rubella"
+    },
+    {
+        "id":966,
+        "disease_name":"ruptured eardrum"
+    },
+    {
+        "id":967,
+        "disease_name":"ruptured ovarian cyst"
+    },
+    {
+        "id":968,
+        "disease_name":"sacral fracture"
+    },
+    {
+        "id":969,
+        "disease_name":"salmonella infection"
+    },
+    {
+        "id":970,
+        "disease_name":"salter-harris fracture"
+    },
+    {
+        "id":971,
+        "disease_name":"sarcoidosis"
+    },
+    {
+        "id":972,
+        "disease_name":"sars (severe acute respiratory syndrome)"
+    },
+    {
+        "id":973,
+        "disease_name":"scabies"
+    },
+    {
+        "id":974,
+        "disease_name":"scabies in children"
+    },
+    {
+        "id":975,
+        "disease_name":"scalp contusion in adults"
+    },
+    {
+        "id":976,
+        "disease_name":"scalp contusion in children"
+    },
+    {
+        "id":977,
+        "disease_name":"scaphoid fracture"
+    },
+    {
+        "id":978,
+        "disease_name":"scapular fracture"
+    },
+    {
+        "id":979,
+        "disease_name":"scarlet fever"
+    },
+    {
+        "id":980,
+        "disease_name":"schizoaffective disorder"
+    },
+    {
+        "id":981,
+        "disease_name":"schizophrenia"
+    },
+    {
+        "id":982,
+        "disease_name":"sciatica"
+    },
+    {
+        "id":983,
+        "disease_name":"scleritis"
+    },
+    {
+        "id":984,
+        "disease_name":"scleroderma"
+    },
+    {
+        "id":985,
+        "disease_name":"scoliosis in children"
+    },
+    {
+        "id":986,
+        "disease_name":"screening for a-fib (atrial fibrillation)"
+    },
+    {
+        "id":987,
+        "disease_name":"seborrheic dermatitis"
+    },
+    {
+        "id":988,
+        "disease_name":"second-degree burn"
+    },
+    {
+        "id":989,
+        "disease_name":"secondary adrenal insufficiency"
+    },
+    {
+        "id":990,
+        "disease_name":"seizures after traumatic brain injury"
+    },
+    {
+        "id":991,
+        "disease_name":"separation anxiety disorder"
+    },
+    {
+        "id":992,
+        "disease_name":"sepsis"
+    },
+    {
+        "id":993,
+        "disease_name":"sepsis in children"
+    },
+    {
+        "id":994,
+        "disease_name":"septic arthritis"
+    },
+    {
+        "id":995,
+        "disease_name":"seroma"
+    },
+    {
+        "id":996,
+        "disease_name":"serotonin syndrome"
+    },
+    {
+        "id":997,
+        "disease_name":"sever disease"
+    },
+    {
+        "id":998,
+        "disease_name":"sexually transmitted diseases"
+    },
+    {
+        "id":999,
+        "disease_name":"sexually transmitted diseases in adolescents"
+    },
+    {
+        "id":1000,
+        "disease_name":"shigellosis"
+    },
+    {
+        "id":1001,
+        "disease_name":"shingles"
+    },
+    {
+        "id":1002,
+        "disease_name":"short bowel syndrome"
+    },
+    {
+        "id":1003,
+        "disease_name":"shoulder bursitis"
+    },
+    {
+        "id":1004,
+        "disease_name":"shoulder dislocation"
+    },
+    {
+        "id":1005,
+        "disease_name":"shoulder fracture in children"
+    },
+    {
+        "id":1006,
+        "disease_name":"shoulder sprain"
+    },
+    {
+        "id":1007,
+        "disease_name":"sialoadenitis"
+    },
+    {
+        "id":1008,
+        "disease_name":"sickle cell crisis"
+    },
+    {
+        "id":1009,
+        "disease_name":"sickle cell disease"
+    },
+    {
+        "id":1010,
+        "disease_name":"sickle cell disease in children"
+    },
+    {
+        "id":1011,
+        "disease_name":"simple eosinophilic pneumonia"
+    },
+    {
+        "id":1012,
+        "disease_name":"sinusitis"
+    },
+    {
+        "id":1013,
+        "disease_name":"sinusitis in children"
+    },
+    {
+        "id":1014,
+        "disease_name":"sjogren syndrome"
+    },
+    {
+        "id":1015,
+        "disease_name":"skier's thumb"
+    },
+    {
+        "id":1016,
+        "disease_name":"skin tags"
+    },
+    {
+        "id":1017,
+        "disease_name":"skin yeast infection"
+    },
+    {
+        "id":1018,
+        "disease_name":"skull fracture"
+    },
+    {
+        "id":1019,
+        "disease_name":"skull fracture in children"
+    },
+    {
+        "id":1020,
+        "disease_name":"sleep apnea"
+    },
+    {
+        "id":1021,
+        "disease_name":"slipped capital femoral epiphysis"
+    },
+    {
+        "id":1022,
+        "disease_name":"small fiber neuropathy"
+    },
+    {
+        "id":1023,
+        "disease_name":"smallpox"
+    },
+    {
+        "id":1024,
+        "disease_name":"smoke inhalation"
+    },
+    {
+        "id":1025,
+        "disease_name":"snake bite"
+    },
+    {
+        "id":1026,
+        "disease_name":"social anxiety disorder"
+    },
+    {
+        "id":1027,
+        "disease_name":"social anxiety disorder in children"
+    },
+    {
+        "id":1028,
+        "disease_name":"social phobia in children"
+    },
+    {
+        "id":1029,
+        "disease_name":"soft tissue foreign body"
+    },
+    {
+        "id":1030,
+        "disease_name":"specific phobia"
+    },
+    {
+        "id":1031,
+        "disease_name":"spina bifida in children"
+    },
+    {
+        "id":1032,
+        "disease_name":"spinous process fracture"
+    },
+    {
+        "id":1033,
+        "disease_name":"splenic infarction"
+    },
+    {
+        "id":1034,
+        "disease_name":"splenic sequestration crisis in children"
+    },
+    {
+        "id":1035,
+        "disease_name":"spondylolisthesis"
+    },
+    {
+        "id":1036,
+        "disease_name":"spontaneous pneumothorax"
+    },
+    {
+        "id":1037,
+        "disease_name":"spontaneous pneumothorax in children"
+    },
+    {
+        "id":1038,
+        "disease_name":"sporotrichosis"
+    },
+    {
+        "id":1039,
+        "disease_name":"sports concussion"
+    },
+    {
+        "id":1040,
+        "disease_name":"sports concussion in children"
+    },
+    {
+        "id":1041,
+        "disease_name":"sprain"
+    },
+    {
+        "id":1042,
+        "disease_name":"squamous cell carcinoma"
+    },
+    {
+        "id":1043,
+        "disease_name":"stasis dermatitis"
+    },
+    {
+        "id":1044,
+        "disease_name":"stevens-johnson syndrome"
+    },
+    {
+        "id":1045,
+        "disease_name":"stomach cancer"
+    },
+    {
+        "id":1045,
+        "disease_name":"stomach cancer"
+    },
+    {
+        "id":1046,
+        "disease_name":"strabismus in adults"
+    },
+    {
+        "id":1047,
+        "disease_name":"strabismus in children"
+    },
+    {
+        "id":1048,
+        "disease_name":"strep throat"
+    },
+    {
+        "id":1049,
+        "disease_name":"strep throat in children"
+    },
+    {
+        "id":1050,
+        "disease_name":"stress"
+    },
+    {
+        "id":1051,
+        "disease_name":"stroke"
+    },
+    {
+        "id":1052,
+        "disease_name":"stroke in children"
+    },
+    {
+        "id":1053,
+        "disease_name":"stye"
+    },
+    {
+        "id":1054,
+        "disease_name":"subarachnoid hemorrhage"
+    },
+    {
+        "id":1055,
+        "disease_name":"subclinical hyperthyroidism"
+    },
+    {
+        "id":1056,
+        "disease_name":"subclinical hypothyroidism"
+    },
+    {
+        "id":1057,
+        "disease_name":"subungual hematoma"
+    },
+    {
+        "id":1058,
+        "disease_name":"sunburn"
+    },
+    {
+        "id":1059,
+        "disease_name":"superficial thrombophlebitis"
+    },
+    {
+        "id":1060,
+        "disease_name":"superior vena cava syndrome"
+    },
+    {
+        "id":1061,
+        "disease_name":"supraventricular tachycardia"
+    },
+    {
+        "id":1062,
+        "disease_name":"surgical site infections"
+    },
+    {
+        "id":1063,
+        "disease_name":"swimmer's ear"
+    },
+    {
+        "id":1064,
+        "disease_name":"syncope"
+    },
+    {
+        "id":1065,
+        "disease_name":"syncope in children"
+    },
+    {
+        "id":1066,
+        "disease_name":"syncope in older adults"
+    },
+    {
+        "id":1067,
+        "disease_name":"syphilis"
+    },
+    {
+        "id":1067,
+        "disease_name":"syphilis"
+    },
+    {
+        "id":1068,
+        "disease_name":"talar fracture in adults"
+    },
+    {
+        "id":1069,
+        "disease_name":"tapeworm infection"
+    },
+    {
+        "id":1070,
+        "disease_name":"tarsal tunnel syndrome"
+    },
+    {
+        "id":1071,
+        "disease_name":"teething"
+    },
+    {
+        "id":1072,
+        "disease_name":"temporal arteritis"
+    },
+    {
+        "id":1073,
+        "disease_name":"temporal lobe seizures"
+    },
+    {
+        "id":1074,
+        "disease_name":"temporal lobe seizures in children"
+    },
+    {
+        "id":1075,
+        "disease_name":"temporomandibular disorder"
+    },
+    {
+        "id":1076,
+        "disease_name":"tendinitis"
+    },
+    {
+        "id":1077,
+        "disease_name":"tendon laceration"
+    },
+    {
+        "id":1078,
+        "disease_name":"tendon rupture"
+    },
+    {
+        "id":1079,
+        "disease_name":"tennis elbow"
+    },
+    {
+        "id":1080,
+        "disease_name":"tenosynovitis"
+    },
+    {
+        "id":1081,
+        "disease_name":"testicular cancer"
+    },
+    {
+        "id":1081,
+        "disease_name":"testicular cancer"
+    },
+    {
+        "id":1082,
+        "disease_name":"testicular torsion"
+    },
+    {
+        "id":1083,
+        "disease_name":"tetanus"
+    },
+    {
+        "id":1084,
+        "disease_name":"tetanus in children"
+    },
+    {
+        "id":1085,
+        "disease_name":"tethered cord syndrome"
+    },
+    {
+        "id":1086,
+        "disease_name":"tethered cord syndrome in children"
+    },
+    {
+        "id":1087,
+        "disease_name":"tetralogy of fallot in children"
+    },
+    {
+        "id":1088,
+        "disease_name":"thoracic aortic aneurysm"
+    },
+    {
+        "id":1089,
+        "disease_name":"thoracic disc herniation"
+    },
+    {
+        "id":1090,
+        "disease_name":"thoracic outlet syndrome"
+    },
+    {
+        "id":1091,
+        "disease_name":"thoracolumbar fracture"
+    },
+    {
+        "id":1092,
+        "disease_name":"threatened miscarriage"
+    },
+    {
+        "id":1093,
+        "disease_name":"thrombocytopenia"
+    },
+    {
+        "id":1094,
+        "disease_name":"thrombotic thrombocytopenic purpura"
+    },
+    {
+        "id":1095,
+        "disease_name":"thumb fracture"
+    },
+    {
+        "id":1096,
+        "disease_name":"thyroid cancer"
+    },
+    {
+        "id":1096,
+        "disease_name":"thyroid cancer"
+    },
+    {
+        "id":1097,
+        "disease_name":"thyroid goiter"
+    },
+    {
+        "id":1098,
+        "disease_name":"thyroid nodules"
+    },
+    {
+        "id":1099,
+        "disease_name":"tick bite"
+    },
+    {
+        "id":1100,
+        "disease_name":"tinea capitis"
+    },
+    {
+        "id":1101,
+        "disease_name":"tinea corporis"
+    },
+    {
+        "id":1102,
+        "disease_name":"tinea versicolor"
+    },
+    {
+        "id":1103,
+        "disease_name":"tobacco stomatitis"
+    },
+    {
+        "id":1104,
+        "disease_name":"toe fracture"
+    },
+    {
+        "id":1105,
+        "disease_name":"toe fracture in children"
+    },
+    {
+        "id":1106,
+        "disease_name":"tonsillitis"
+    },
+    {
+        "id":1107,
+        "disease_name":"tonsillitis in children"
+    },
+    {
+        "id":1108,
+        "disease_name":"torticollis in children"
+    },
+    {
+        "id":1109,
+        "disease_name":"toxic epidermal necrolysis"
+    },
+    {
+        "id":1110,
+        "disease_name":"toxoplasmosis"
+    },
+    {
+        "id":1111,
+        "disease_name":"toxoplasmosis in children"
+    },
+    {
+        "id":1112,
+        "disease_name":"tracheoesophageal fistula"
+    },
+    {
+        "id":1113,
+        "disease_name":"transaminitis"
+    },
+    {
+        "id":1114,
+        "disease_name":"transient ischemic attack"
+    },
+    {
+        "id":1115,
+        "disease_name":"transverse process fracture"
+    },
+    {
+        "id":1116,
+        "disease_name":"traumatic pneumothorax"
+    },
+    {
+        "id":1117,
+        "disease_name":"trench mouth"
+    },
+    {
+        "id":1118,
+        "disease_name":"trichomoniasis"
+    },
+    {
+        "id":1119,
+        "disease_name":"tricuspid regurgitation"
+    },
+    {
+        "id":1120,
+        "disease_name":"trigeminal neuralgia"
+    },
+    {
+        "id":1121,
+        "disease_name":"trigger finger"
+    },
+    {
+        "id":1122,
+        "disease_name":"trigger point pain"
+    },
+    {
+        "id":1123,
+        "disease_name":"ttn (transient tachypnea of newborn)"
+    },
+    {
+        "id":1124,
+        "disease_name":"tuberculosis"
+    },
+    {
+        "id":1125,
+        "disease_name":"tularemia"
+    },
+    {
+        "id":1126,
+        "disease_name":"tumor lysis syndrome"
+    },
+    {
+        "id":1127,
+        "disease_name":"type 1 diabetes in children"
+    },
+    {
+        "id":1128,
+        "disease_name":"type 2 diabetes in children"
+    },
+    {
+        "id":1129,
+        "disease_name":"typhoid"
+    },
+    {
+        "id":1130,
+        "disease_name":"ulcerative colitis"
+    },
+    {
+        "id":1131,
+        "disease_name":"umbilical granuloma"
+    },
+    {
+        "id":1132,
+        "disease_name":"umbilical hernia"
+    },
+    {
+        "id":1133,
+        "disease_name":"umbilical hernia in children"
+    },
+    {
+        "id":1134,
+        "disease_name":"upper respiratory infection"
+    },
+    {
+        "id":1135,
+        "disease_name":"upper respiratory infection in children"
+    },
+    {
+        "id":1136,
+        "disease_name":"ureteral stones"
+    },
+    {
+        "id":1137,
+        "disease_name":"urethral stricture"
+    },
+    {
+        "id":1138,
+        "disease_name":"urethritis"
+    },
+    {
+        "id":1139,
+        "disease_name":"urinary incontinence"
+    },
+    {
+        "id":1140,
+        "disease_name":"urinary retention in men"
+    },
+    {
+        "id":1141,
+        "disease_name":"urinary tract infection in children"
+    },
+    {
+        "id":1142,
+        "disease_name":"urinary tract infection in men"
+    },
+    {
+        "id":1143,
+        "disease_name":"urinary tract infection in pregnancy"
+    },
+    {
+        "id":1144,
+        "disease_name":"urinary tract infection in women"
+    },
+    {
+        "id":1145,
+        "disease_name":"uterine cancer"
+    },
+    {
+        "id":1146,
+        "disease_name":"uterine fibroids"
+    },
+    {
+        "id":1147,
+        "disease_name":"uterine prolapse"
+    },
+    {
+        "id":1148,
+        "disease_name":"uveitis"
+    },
+    {
+        "id":1149,
+        "disease_name":"uvulitis"
+    },
+    {
+        "id":1150,
+        "disease_name":"vaginal atrophy"
+    },
+    {
+        "id":1151,
+        "disease_name":"vaginal foreign body"
+    },
+    {
+        "id":1152,
+        "disease_name":"vaginal foreign body in children"
+    },
+    {
+        "id":1153,
+        "disease_name":"vaginitis"
+    },
+    {
+        "id":1154,
+        "disease_name":"vaginitis in children"
+    },
+    {
+        "id":1155,
+        "disease_name":"valley fever"
+    },
+    {
+        "id":1156,
+        "disease_name":"vancomycin resistant enterococcus"
+    },
+    {
+        "id":1157,
+        "disease_name":"vancomycin resistant staphylococcus aureus infection"
+    },
+    {
+        "id":1158,
+        "disease_name":"varicocele"
+    },
+    {
+        "id":1159,
+        "disease_name":"varicose veins"
+    },
+    {
+        "id":1160,
+        "disease_name":"venous insufficiency"
+    },
+    {
+        "id":1161,
+        "disease_name":"venous thromboembolism"
+    },
+    {
+        "id":1162,
+        "disease_name":"ventral hernia"
+    },
+    {
+        "id":1163,
+        "disease_name":"ventricular septal defect in children"
+    },
+    {
+        "id":1164,
+        "disease_name":"ventriculomegaly"
+    },
+    {
+        "id":1165,
+        "disease_name":"vertebral compression fracture"
+    },
+    {
+        "id":1166,
+        "disease_name":"vertigo"
+    },
+    {
+        "id":1167,
+        "disease_name":"viral encephalitis"
+    },
+    {
+        "id":1168,
+        "disease_name":"viral meningitis"
+    },
+    {
+        "id":1168,
+        "disease_name":"viral meningitis"
+    },
+    {
+        "id":1169,
+        "disease_name":"viral meningitis in children"
+    },
+    {
+        "id":1170,
+        "disease_name":"viral pneumonia"
+    },
+    {
+        "id":1170,
+        "disease_name":"viral pneumonia"
+    },
+    {
+        "id":1171,
+        "disease_name":"viral syndrome"
+    },
+    {
+        "id":1172,
+        "disease_name":"viral syndrome in children"
+    },
+    {
+        "id":1173,
+        "disease_name":"vision problems in children"
+    },
+    {
+        "id":1174,
+        "disease_name":"vitamin b12 deficiency"
+    },
+    {
+        "id":1175,
+        "disease_name":"vitamin d deficiency"
+    },
+    {
+        "id":1176,
+        "disease_name":"vulvovaginitis in children"
+    },
+    {
+        "id":1177,
+        "disease_name":"warfarin toxicity"
+    },
+    {
+        "id":1178,
+        "disease_name":"west nile virus infection"
+    },
+    {
+        "id":1179,
+        "disease_name":"wheezing"
+    },
+    {
+        "id":1180,
+        "disease_name":"wolff-parkinson-white syndrome"
+    },
+    {
+        "id":1181,
+        "disease_name":"wolff-parkinson-white syndrome in children"
+    },
+    {
+        "id":1182,
+        "disease_name":"working memory disorder in children"
+    },
+    {
+        "id":1183,
+        "disease_name":"wound dehiscence"
+    },
+    {
+        "id":1184,
+        "disease_name":"wound infection"
+    },
+    {
+        "id":1185,
+        "disease_name":"wrist fracture in adults"
+    },
+    {
+        "id":1186,
+        "disease_name":"wrist fracture in children"
+    },
+    {
+        "id":1187,
+        "disease_name":"wrist injury"
+    },
+    {
+        "id":1188,
+        "disease_name":"wrist sprain"
+    },
+    {
+        "id":1189,
+        "disease_name":"wrist sprain in children"
+    },
+    {
+        "id":1190,
+        "disease_name":"yeast infection"
+    },
+    {
+        "id":1191,
+        "disease_name":"zika virus"
+    },
+    {
+        "id":1191,
+        "disease_name":"zika virus"
+    },
+    {
+        "id":1192,
+        "disease_name":"zika virus in adolescents"
+    },
+    {
+        "id":1193,
+        "disease_name":"zika virus in children"
+    }
+]

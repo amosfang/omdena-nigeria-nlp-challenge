@@ -8,71 +8,78 @@ import joblib
 
 from utils import Preprocessor
 
-REPO_ID = "michael-map/tripadvisor-nlp-rfc"
-FILENAME = "random_forest_model.joblib"
+REPO_ID = "amosfang/medical_symptoms_rfc"
+FILENAME = "medical_symptoms_rfc.joblib"
+
+# Load JSON from a file
+with open("diseases.json", "r", encoding="utf-8") as json_file:
+    diseases_dict = json.load(json_file)
 
 # Helper function for prediction
-def predict_review(review_text):
+def predict_symptoms(symptoms_text):
     
-    # Predict sentiment
+    # Predict disease
     model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
     model = joblib.load(model_path)
-    prediction = model.predict(pd.Series(review_text))
-    prediction_prob = model.predict_proba(pd.Series(review_text))[0]
     
-    return prediction, prediction_prob
+    prediction_prob = model.predict_proba(pd.Series(symptoms_text))
+
+    # Get top 5 predictions for each sample
+    top_n = 5
+    predictions = np.argsort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]  # Get indices of top 5 diseases
+    top_n_probs = np.sort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]
+
+    return prediction, top_n_probs
 
 def run():
     # Streamlit UI
-    st.set_page_config(page_title="Hotel Review Sentiment Predictor", layout="centered")
+    st.set_page_config(page_title="Disease Predictor", layout="centered")
     
     # Header
-    st.title("Hotel Review Sentiment Predictor")
-    st.subheader("Analyze and predict the sentiment of hotel reviews.")
+    st.title("Disease Predictor")
+    st.subheader("Analyze and predict the disease given symptoms")
     
     # User Input
-    st.markdown("### Enter Your Review")
-    user_review = st.text_area(
-        "Type or paste a hotel review below to predict its sentiment.",
-        placeholder="The room was clean, and the service was excellent!",
+    st.markdown("### Enter Your Symptoms")
+    user_symptoms = st.text_area(
+        "Type or paste symptoms below to predict disease.",
+        placeholder="fever and sore throat",
     )
     
     # Submit Button
-    if st.button("Predict Sentiment"):
-        if user_review.strip():
+    if st.button("Predict Disease"):
+        if user_symptoms.strip():
             # Make prediction
-            prediction, prediction_prob = predict_review(user_review)
-            sentiment = "Positive" if prediction == 1 else "Negative"
-            prob_positive = round(prediction_prob[1] * 100, 2)
-            prob_negative = round(prediction_prob[0] * 100, 2)
+            predictions, top_n_probs = predict_review(user_symptoms)
+            prediction_diseases = [diseases_dict[i]['disease_name'] for i in predictions]
     
             # Display Results
-            st.markdown(f"### Sentiment: **{sentiment}**")
+            st.markdown(f"### Disease: **{sentiment}**")
             st.markdown(f"**Confidence:** {prob_positive}% Positive, {prob_negative}% Negative")
             
             # Plotly Bar Chart for Probabilities
             fig = go.Figure(data=[
                 go.Bar(
-                    x=["Positive", "Negative"],
-                    y=[prob_positive, prob_negative],
-                    text=[f"{prob_positive}%", f"{prob_negative}%"],
+                    x=prediction_diseases,
+                    y=top_n_probs,
+                    # text=[f"{prob_positive}%", f"{prob_negative}%"],
                     textposition='auto',
-                    marker=dict(color=['green', 'red'])
+                    # marker=dict(color=['green', 'red'])
                 )
             ])
             fig.update_layout(
                 title="Prediction Probabilities",
-                xaxis_title="Sentiment",
+                xaxis_title="Diseases",
                 yaxis_title="Probability (%)",
                 template="plotly_white"
             )
             st.plotly_chart(fig)
             
             st.info(
-                "Sentiment prediction is based on trained machine learning algorithms using advanced text processing techniques."
+                "Disease prediction is based on trained machine learning algorithms using advanced text processing techniques."
             )
         else:
-            st.error("Please enter a valid review before clicking 'Predict Sentiment'.")
+            st.error("Please enter a valid patient symptom before clicking 'Predict Disease'.")
     
     # Footer
     st.markdown("---")

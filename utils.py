@@ -61,10 +61,10 @@ class Preprocessor:
     def transform(self, X):
         if isinstance(X, pd.Series):
             # Convert Series to DataFrame
-            df = X.to_frame(name="Review")
+            df = X.to_frame(name="symptoms")
         elif isinstance(X, np.ndarray):
             # Convert NumPy array to DataFrame
-            df = pd.DataFrame(X, columns=["Review"])
+            df = pd.DataFrame(X, columns=["symptoms"])
         else:
             raise ValueError("Input X must be a pandas Series or NumPy array.")
 
@@ -72,4 +72,4 @@ class Preprocessor:
         preprocess_text(df, text_col="symptoms", custom_stop_words=custom_stop_words)
         
         # Return a pandas Series containing list of named entities for each disease
-        return df["named_entitites"]
+        return df["named_entities"]

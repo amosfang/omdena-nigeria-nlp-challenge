@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import json
+import joblib
 import plotly.graph_objects as go
 
 from huggingface_hub import hf_hub_download
-import joblib
-
 from utils import Preprocessor
 
 REPO_ID = "amosfang/medical_symptoms_rfc"

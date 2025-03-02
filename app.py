@@ -36,12 +36,12 @@ def predict_symptoms(symptoms_text):
     prediction_prob = model.predict_proba(tfidf_matrix)
 
     # Get top 5 predictions for each sample
-    top_n = 5
+    top_n = 50
     predictions = np.argsort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]  # Get indices of top 5 diseases
     top_n_probs = np.sort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]
 
     return predictions, top_n_probs
-
+    
 def run():
     # Streamlit UI
     st.set_page_config(page_title="Disease Predictor", layout="centered")
@@ -69,20 +69,20 @@ def run():
             st.markdown(f"**Confidence:** {' '.joint(top_n_probs.tolist())}")
             
             # Plotly Bar Chart for Probabilities
-            fig = go.Figure(data=[
-                go.Bar(
-                    x=prediction_diseases,
-                    y=top_n_probs[0],
-                    textposition='auto',
-                )
-            ])
-            fig.update_layout(
-                title="Prediction Probabilities",
-                xaxis_title="Diseases",
-                yaxis_title="Probability",
-                template="plotly_white"
-            )
-            st.plotly_chart(fig)
+            # fig = go.Figure(data=[
+            #     go.Bar(
+            #         x=prediction_diseases,
+            #         y=top_n_probs[0],
+            #         textposition='auto',
+            #     )
+            # ])
+            # fig.update_layout(
+            #     title="Prediction Probabilities",
+            #     xaxis_title="Diseases",
+            #     yaxis_title="Probability",
+            #     template="plotly_white"
+            # )
+            # st.plotly_chart(fig)
             
             st.info(
                 "Disease prediction is based on trained machine learning algorithms using advanced text processing techniques."

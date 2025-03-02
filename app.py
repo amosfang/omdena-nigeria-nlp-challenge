@@ -11,10 +11,6 @@ from utils import Preprocessor
 REPO_ID = "amosfang/medical_symptoms_rfc"
 FILENAME = "medical_symptoms_rfc.joblib"
 
-# Load JSON from a file
-with open("diseases.json", "r", encoding="utf-8") as json_file:
-    diseases_dict = json.load(json_file)
-
 # Helper function for feature extraction
 def extract_features(X):
     
@@ -35,8 +31,6 @@ def predict_symptoms(symptoms_text):
 
     data_preprocessor = Preprocessor()
     X = data_preprocessor.transform(pd.Series(symptoms_text))
-
-    print(X)
     
     tfidf_matrix = extract_features(X)
     prediction_prob = model.predict_proba(tfidf_matrix)
@@ -68,7 +62,7 @@ def run():
         if user_symptoms.strip():
             # Make prediction
             predictions, top_n_probs = predict_symptoms(user_symptoms)
-            prediction_diseases = [diseases_dict[i]['disease_name'] for i in predictions]
+            prediction_diseases = diseases_df.iloc[predictions[0]]
     
             # Display Results
             st.markdown(f"### Disease: **{' '.join(prediction_diseases)}**")
@@ -78,16 +72,14 @@ def run():
             fig = go.Figure(data=[
                 go.Bar(
                     x=prediction_diseases,
-                    y=top_n_probs,
-                    # text=[f"{prob_positive}%", f"{prob_negative}%"],
+                    y=top_n_probs[0],
                     textposition='auto',
-                    # marker=dict(color=['green', 'red'])
                 )
             ])
             fig.update_layout(
                 title="Prediction Probabilities",
                 xaxis_title="Diseases",
-                yaxis_title="Probability (%)",
+                yaxis_title="Probability",
                 template="plotly_white"
             )
             st.plotly_chart(fig)
@@ -103,5 +95,13 @@ def run():
     st.markdown("Developed with ❤️ using Streamlit | © 2025 Medical Insights AI")
 
 if __name__ == "__main__":
+    # Load JSON from a file
+    with open("diseases.json", "r", encoding="utf-8") as json_file:
+        diseases_dict = json.load(json_file)
+        
+    diseases_df = pd.DataFrame(diseases_dict).drop_duplicates()
+    diseases_df.set_index("id", inplace=True)["disease_name"]
+
+    # Run Streamlit App
     run()
 

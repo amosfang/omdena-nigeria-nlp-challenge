@@ -15,14 +15,29 @@ FILENAME = "medical_symptoms_rfc.joblib"
 with open("diseases.json", "r", encoding="utf-8") as json_file:
     diseases_dict = json.load(json_file)
 
+# Helper function for feature extraction
+def extract_features(X):
+    
+    vectorizer = joblib.load('vectorizer.pkl') # Load the previously saved vectorizer
+    count_matrix = vectorizer.transform(X)  
+
+    tfidf_transformer = joblib.load('tfidf_transformer.pkl')  # Load the saved TF-IDF transformer
+    tfidf_matrix = tfidf_transformer.transform(count_matrix) 
+
+    return tfidf_matrix
+
 # Helper function for prediction
 def predict_symptoms(symptoms_text):
     
     # Predict disease
     model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
     model = joblib.load(model_path)
+
+    data_preprocessor = Preprocessor()
+    X = data_preprocessor.transform(pd.Series(symptoms_text))
     
-    prediction_prob = model.predict_proba(pd.Series(symptoms_text))
+    tfidf_matrix = extract_features(X)
+    prediction_prob = model.predict_proba(tfidf_matrix)
 
     # Get top 5 predictions for each sample
     top_n = 5

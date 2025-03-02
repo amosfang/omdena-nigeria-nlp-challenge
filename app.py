@@ -36,7 +36,7 @@ def predict_symptoms(symptoms_text):
     prediction_prob = model.predict_proba(tfidf_matrix)
 
     # Get top 5 predictions for each sample
-    top_n = 50
+    top_n = 5
     predictions = np.argsort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]  # Get indices of top 5 diseases
     top_n_probs = np.sort(prediction_prob, axis=1)[:, -top_n:][:, ::-1]
 
@@ -65,8 +65,9 @@ def run():
             prediction_diseases = diseases_df.iloc[predictions[0]]["disease_name"]
     
             # Display Results
-            st.markdown(f"### Disease: **{' '.join(prediction_diseases.tolist())}**")
-            st.markdown(f"**Confidence:** {' '.joint(top_n_probs.tolist())}")
+            st.markdown(f"Disease: {prediction_diseases.tolist()}")
+            # st.markdown(f"### Disease: **{' '.join(prediction_diseases.tolist())}**")
+            # st.markdown(f"**Confidence:** {' '.joint(top_n_probs.tolist())}")
             
             # Plotly Bar Chart for Probabilities
             # fig = go.Figure(data=[

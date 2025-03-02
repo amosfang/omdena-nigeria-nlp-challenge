@@ -100,7 +100,7 @@ if __name__ == "__main__":
         diseases_dict = json.load(json_file)
         
     diseases_df = pd.DataFrame(diseases_dict).drop_duplicates()
-    diseases_df.set_index("id", inplace=True)["disease_name"]
+    diseases_df.set_index("id", inplace=True)
 
     # Run Streamlit App
     run()

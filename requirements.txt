@@ -1,5 +1,6 @@
 huggingface-hub==0.17.3
 joblib
+json
 scikit-learn
 spacy==3.7.4
 en_core_sci_lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz

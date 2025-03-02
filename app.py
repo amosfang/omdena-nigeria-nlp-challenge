@@ -65,12 +65,12 @@ def run():
     if st.button("Predict Disease"):
         if user_symptoms.strip():
             # Make prediction
-            predictions, top_n_probs = predict_review(user_symptoms)
+            predictions, top_n_probs = predict_symptoms(user_symptoms)
             prediction_diseases = [diseases_dict[i]['disease_name'] for i in predictions]
     
             # Display Results
-            st.markdown(f"### Disease: **{sentiment}**")
-            st.markdown(f"**Confidence:** {prob_positive}% Positive, {prob_negative}% Negative")
+            st.markdown(f"### Disease: **{' '.join(prediction_diseases)}**")
+            st.markdown(f"**Confidence:** {' '.joint(top_n_probs.tolist())}")
             
             # Plotly Bar Chart for Probabilities
             fig = go.Figure(data=[

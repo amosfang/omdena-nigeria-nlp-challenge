@@ -35,6 +35,8 @@ def predict_symptoms(symptoms_text):
 
     data_preprocessor = Preprocessor()
     X = data_preprocessor.transform(pd.Series(symptoms_text))
+
+    print(X)
     
     tfidf_matrix = extract_features(X)
     prediction_prob = model.predict_proba(tfidf_matrix)

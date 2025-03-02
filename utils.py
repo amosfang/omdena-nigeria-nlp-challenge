@@ -69,7 +69,7 @@ class Preprocessor:
             raise ValueError("Input X must be a pandas Series or NumPy array.")
 
         # Call the preprocess_text function for text cleaning
-        preprocess_text(df, text_col="Review", custom_stop_words=custom_stop_words)
+        preprocess_text(df, text_col="symptoms", custom_stop_words=custom_stop_words)
         
-        # Return the processed reviews as a pandas Series
-        return df["processed_reviews"]
+        # Return a pandas Series containing list of named entities for each disease
+        return df["named_entitites"]
